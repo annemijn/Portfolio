@@ -135,7 +135,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img"
-                        src="images/git.png" />
+                        src="images/closer.png" />
                         </canvas>
        			</a>
              
@@ -149,7 +149,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/git.png" />
+                        src="images/visualisatieconcept2.png" />
                         </canvas>
                  </a>
                          
@@ -197,7 +197,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/git.png" />
+                        src="images/week6.png" />
                         </canvas>
                     </a>
                         
@@ -215,7 +215,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/git.png" />
+                        src="images/persona.png" />
                         </canvas>
                     </a>
                     </a>
