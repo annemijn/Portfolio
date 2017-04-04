@@ -63,7 +63,7 @@
 
 
 
-    <div class="project-title-concept1">
+    <div class="project-title-arch">
             <h1>Conceptweek 4</h1>
     </div>
     <div class="wrapperproject">
@@ -98,7 +98,7 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/concept2visual.png"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/visualisatieconcept2.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
