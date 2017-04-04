@@ -61,7 +61,7 @@
 
 
 
-    <div class="project-title-nail">
+    <div class="project-title-game">
             <h1>Interviews</h1>
     </div>
     <div class="wrapperproject">
