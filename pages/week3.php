@@ -63,7 +63,7 @@
 
 
 
-    <div class="project-title-arch">
+    <div class="project-title-nail">
             <h1>Conceptweek 3</h1>
     </div>
     <div class="wrapperproject">
