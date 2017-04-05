@@ -62,7 +62,7 @@
 
     <div class="page-title">
             <h1>PORTFOLIO</h1>
-            <h6>Hier zie je alle vakken met workshops die ik dit semester heb gemaakt.</h6>
+            <h6>Hier zie je wat ik bij elke vak in semester 4 heb gedaan.</h6>
     </div>
     
     <div class="portfolio-list">
@@ -83,7 +83,7 @@
                             <div class="list-big-block-excerpt">
 							  In de eerste week beginnen we met het maken van concepten vanuit het gebied trend/markt. 
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -98,7 +98,7 @@
                             <div class="list-big-block-excerpt">
                             In de tweede week maken we concepten vanuit het gebied technologie.                         
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -113,7 +113,7 @@
                             <div class="list-big-block-excerpt">
                             Voor UXU heb ik een aantal interviews gedaan om meer over de doelgroep te weten te komen.                            
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -131,7 +131,7 @@
                             In de derde week verdiepen we ons meer in de doelgroep.
                            
                              </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img"
@@ -145,7 +145,7 @@
                             <div class="list-big-block-excerpt">
                             In de vierde week kiezen we twee concepten uit die we verder gaan uitwerken.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -157,13 +157,13 @@
                  </div>                            
      
             <div class="list-big-block-row-a" style="top: -67px;">
-                <a class="list-big-block-a hexagon sco " href="pages/GIT.php">
+                <a class="list-big-block-a hexagon sco " href="pages/week5.php">
                         <span class="list-big-block-hover">
                             <h3>Conceptweek 5</h3>
                             <div class="list-big-block-excerpt">
                             In de vijfde week zijn we ons concept beter gaan uitwerken voor de presentatie van volgende week.           
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -178,7 +178,7 @@
                             <div class="list-big-block-excerpt">
                             Met DEV kregen we een workshop over Git.
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -193,7 +193,7 @@
                             <div class="list-big-block-excerpt">
                             In de zesde week gingen we onze twee concepten presenteren aan onze opdrachtgever.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -211,7 +211,7 @@
                             <div class="list-big-block-excerpt">
                             In deze sprint gaan we verder met onze gekozen concept.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -225,7 +225,7 @@
                             <div class="list-big-block-excerpt">
                             Ik deed mee aan de Hackathon waarbij we een datavisualisatie gingen maken voor We Are Data.                      
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -238,7 +238,28 @@
 
                  
                     <div class="clearboth"></div>
-                    </div>                       
+                    </div>    
+
+
+            <div class="list-big-block-row-a" style="top: -134px;">
+                <a class="list-big-block-a hexagon sco " href="pages/media.php">
+                        <span class="list-big-block-hover">
+                            <h3>Media- en contenstrategie</h3>
+                            <div class="list-big-block-excerpt">
+                            In de vijfde week zijn we ons concept beter gaan uitwerken voor de presentatie van volgende week.           
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/media.png" />
+                        </canvas>
+                 </a>
+           
+                    
+                        
+                <div class="clearboth"></div>
+                </div>                     
        </div>
         
     </div>
