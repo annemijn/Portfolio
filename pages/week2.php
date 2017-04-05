@@ -116,7 +116,7 @@
             <h3>REFLECTIE</h3>
             </span>
             </div>
-<p>
+<p>Ik merkte dat ik het concepten deze week moeilijker vond dan vorige week. Technologie was namelijk lastig om daarvoor concepten te verzinnen. Ik kwam namelijk vaak uit op ideeën in plaats van concepten. Uiteindelijk hebben we concepten van vorige week gecombineerd met ideeën van deze week. Dit werkte een stuk beter en konden we ook goed de concepten van vorige week verbeteren. De workshop van DEV hielp me wel om meer inspiratie te krijgen. Met deze workshop kreeg ik meer te weten over verschillende technologieën en kon ik in een aantal meer verdiepen die ik nog niet kende.
     
 </p>
         </div>

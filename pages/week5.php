@@ -77,8 +77,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>In de vierde week kiezen we twee concepten uit die we verder gaan uitwerken. Dit doen we door middel van de volgende onderwerpen uit te werken: opdracht
-doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, communicatiestrategie, concept visualisatie en storyline van het concept. Verder krijgen we een introductie over SCRUM.</p>
+        <p>In de vijfde week zijn we ons concept verder gaan uitwerken voor de presentatie van volgende week.</p>
         </div>
                  <div class="titeluitleg">
             <span>
@@ -87,12 +86,12 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </div>
             
     	<div class="projecttext">
-        <p>Maandag begonnen we met de workshop interviewen van UXU. Dit kan je <a href="interviews.php">hier</a> lezen. Als opdracht moesten we individueel drie mensen van onze doelgroep interviewen. We hadden op die dag afgesproken om dit voor woensdag te doen. Met de resultaten van de interviews kunnen we namelijk concepten verzinnen rond de thema doelgroep.</p>
+        <p>Maandag zijn we de pitch gaan maken die we voor volgende week moeten presenteren. Deze presentatie gaan we morgen ook al proef presenteren voor de klas. Om het concept duidelijker te maken wilde we graag een sfeervideo maken. Ik had aangeboden om de video te maken voor het concept Dolce far niente. Ik had al een tijdje niet meer met Premier Pro gewerkt dus het was fijn om hier mee aan de slag te gaan zodat ik het weer kan leren. Bij de sfeervideo wilde we laten zien dat tegenwoordig studenten veel stress hebben. Met beelden dat de persoon steeds gestrester werd met het maken van huiswerk en op zijn mobiel te zitten creëerde ik een onrustige sfeer. Dit werd in de loop van de video steeds erger. Er kwamen irritante geluiden bij zoals een piep en meldingsgeluiden van apparaten. De klok ging steeds sneller tikken en zijn hart pompte steeds harder. Daarna zag je een zwart beeld en hoorde je een vredig stuk klassiek muziek.</p>
         
-        <p>Dinsdag hebben we consult uren gehad. Hierbij hebben drie leraren naar onze concepten van week 2 gekeken. Ik had de concepten laten zien en uitgelegd dat we een aantal concepten van week 1 hebben gecombineerd met een nieuwe technologie. Hier waren ze enthousiast over. Voor volgende week wilden ze dat deze concepten worden uitgeprint met visual, storyline en payoff. </p>
+        <p><span>Video</span><br>
+        Nadat de presentatie en de video van het tweede concept was gemaakt, moesten we kiezen wie er wilde presenteren. Ik had de initiatief genomen om te presenteren. Dit ging ik samen met Arjan doen. We hadden daarna nog even afgesproken wie welke concept ging presenteren. </p>
 
-        <p>Woensdag had iedereen minstens 1 persoon geïnterviewd. Alle resultaten gingen we in een document zetten om te zien of er overeenkomsten of verschillen tussen zitten. Van de resultaten hebben we een conclusie geschreven door alle uitkomsten te vergelijken. 
-        Met de conclusie konden we ideeën verzinnen voor een concept. De uitkomsten van de conclusie die goed te gebruiken zijn hebben we opgeschreven in een apart documentje. Wat mij vooral opviel was dat een van mijn geïnterviewde personen had gezegd dat ze minder afstand wilde hebben tussen het publiek en de muzikanten. Dit vond ik een zeer interessante opmerking. Ik had dit voorgelegd aan het groepje en ze vonden ook dat we hier iets mee moesten doen. Daaruit kwam het eerste concept “Get closer”. Hiervoor heb ik een visual gemaakt.
+        <p>Dinsdag hadden we ’s ochtends de proefpresentaties. Ik vond dat onze presentatie goed ging. Ik had duidelijk het concept uitgelegd en goed in de klas gekeken. Daarna kregen we nog feedback van onze docenten. Ze vonden de sfeervideo’s erg goed. Wel vonden ze het concept Dolce far niente nog niet zo aantrekkelijk. We zijn meteen aan de slag gegaan om dit wat aantrekkelijker te maken voor de studenten. We hadden gebrainstormd en kwamen op een aantal activiteiten om te doen op dit evenement. Ik had hierbij nog een moodboard gemaakt. Morgen zullen we verder gaan met het uitwerken van het concept Dolce far niente.
         </p>
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
@@ -102,12 +101,37 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </dt></dl>
         </div>
 
-        <p>Daarna hebben we nog twee andere concepten verzonnen. Uit de doelgroep analyse kwam naar voren dat jongeren het imago van klassieke muziek erg saai en ouderwets vinden. Hiervoor hadden we een concept verzonnen dat heet “Lekker hip”. 
-        Als derde concept kwam ik op het idee om de mindfulness concept van vorige week aan te passen. We kregen namelijk feedback van onze docenten dat dit nog geen concept was. Omdat we ook te horen kregen van onze doelgroep dat ze klassieke muziek in rust luisteren, wilden we deze idee gaan verbeteren tot een concept. 
-        Het laatste concept kwam iemand op het idee om zintuigen te gaan gebruiken bij een klassiek concert.
+        <p>Woensdag kregen we ‘s ochtends een workshop over Scrum. Volgende week kunnen we Scrum toepassen op ons project. We zijn na de workshop verder gegaan met het uitwerken van het concept Dolce far niente. Daarbij heeft iedereen een taak op zich genomen. De taken waren: dia’s, posters en video’s maken. Ik ging samen met Laura de dia’s maken voor de presentatie van volgende week. We gingen apart van elkaar dia’s maken en uiteindelijk zullen we als groep kiezen. Ik begon met de eerste dia van het concept Dolce far diente. Op deze dia moest de stijl van het concept duidelijk getoond worden. Arjan had een logo ontworpen voor het concept. Dit was een blaadje met daaronder de titel. Dit gaf mij inspiratie om de dia te maken. Ik begon met een groen blaadje met daarin de titel van het concept.
         </p>
 
-        <p>Als laatst hebben we deze concepten ingeleverd en zullen we volgende week feedback krijgen over de concepten.</p>
+                <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
+
+        <img src="../images/week5-1.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
+        </div>
+
+
+        <p>Ik liet het aan de groep zien en vonden het nog wat te vrouwelijk. Zelf vond ik het ook nog niet echt goed. Het groene van het blaadje gaf het een saaie sfeer. Omdat we een beetje een hippie sfeer wilde creëren, koos ik voor een psychedelisch patroon. Iedereen van het groepje was hier enthousiast over en vonden dat dit de logo moest worden. Verder vonden ze dat ik een hippie lettertype moest gebruiken. Uiteindelijk is het dit geworden.</p>
+
+
+        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
+
+        <img src="../images/week5-2.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
+        </div>
+
+        <p>’s middags kregen we een workshop van Design. Daarvoor moesten we een moodboard maken van het concept. Hiervoor had ik het concept Dolce far niente gekozen. Met dit moodboard kreeg ik een duidelijk beeld van hoe de campagne eruit komt te zien.</p>
+
+         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
+
+        <img src="../images/moodboardposters.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
+        </div>
+        
+
 
         <div class="titelreflectie">
             <span>
@@ -115,7 +139,7 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </span>
         </div>
 
-        <p>Het was erg leerzaam om me meer te verdiepen in de doelgroep. Ik kwam namelijk op informatie die ik anders nooit had gekregen. Ook was het leerzaam om te gaan interviewen. Ik merk aan mezelf dat ik het vaak nog lastig vind bij het doorvragen. Toch kreeg ik bruikbare informatie die wij als groep goed konden gebruiken. Ik vond het wel lastig om van deze doelgroep analyse concepten te verzinnen. De grootste deel van de informatie die we kregen hadden we al een concept van gemaakt. Gelukkig had ik van mijn geïnterviewde personen wel informatie die inspiratie gaf voor een concept. Dit konden we goed gebruiken.</p><br>
+        <p>Ik vond dat week 5 een productieve week was. Ik heb een video, moodboards en een logo voor het concept gemaakt. Verder heb ik initiatief genomen om te gaan presenteren. Ik ben namelijk niet zo goed in presenteren en wil me daar heel graag in verbeteren. Ik merkte dat de proefpresentatie goed ging en dat ik al wat zelfverzekerder werd met presenteren. Ik was erg blij met het resultaat van de logo die ik had gemaakt. Het was ook heel fijn dat groepsleden feedback gaven en ook enthousiast waren over mijn logo. Ik vond dat de samenwerking in de groep goed ging. Iedereen was productief bezig en had zijn/haar eigen taak. Wat ik ook erg fijn vond was dat we vaak er allemaal al om 9 uur waren. We begonnen gelijk met onze project en stopte pas als we genoeg gedaan hadden. Dit was meestal rond 15.00 uur/ 15.30 uur.  Ik ben erg benieuwd naar de presentatie van volgende week of ze enthousiast zijn over onze concepten.</p><br>
         </div>
     </div>
 

@@ -87,12 +87,15 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </div>
             
     	<div class="projecttext">
-        <p>Maandag begonnen we met de workshop interviewen van UXU. Dit kan je <a href="interviews.php">hier</a> lezen. Als opdracht moesten we individueel drie mensen van onze doelgroep interviewen. We hadden op die dag afgesproken om dit voor woensdag te doen. Met de resultaten van de interviews kunnen we namelijk concepten verzinnen rond de thema doelgroep.</p>
-        
-        <p>Dinsdag hebben we consult uren gehad. Hierbij hebben drie leraren naar onze concepten van week 2 gekeken. Ik had de concepten laten zien en uitgelegd dat we een aantal concepten van week 1 hebben gecombineerd met een nieuwe technologie. Hier waren ze enthousiast over. Voor volgende week wilden ze dat deze concepten worden uitgeprint met visual, storyline en payoff. </p>
+        <p>Maandag begonnen we met een workshop van SCO. Voor de workshop moesten de concepten worden uitgeprint op een A4. Daarop moesten de korte omschrijving, pay-off en een visualisatie van de concept staan. Ik heb dit thuis bij elke concept gedaan en daarna uitgeprint. Deze hebben wij opgehangen. Daarna kregen we een workshop over de mediastrategie. Hier kregen we duidelijk uitleg over. Om de communicatiestrategie toe te passen moesten we eerst twee concepten uitkiezen. Elk groepslid had op 5 concepten gestemd. Daaruit kwamen 5 concepten waarop er het meest was gestemd. Deze concepten hebben we aan de docent voorgelegd. Met de docent hebben we de twee beste concepten uitgekozen. Deze concepten zullen we verder uitwerken en een communicatiestrategie bij maken.</p>
 
-        <p>Woensdag had iedereen minstens 1 persoon geïnterviewd. Alle resultaten gingen we in een document zetten om te zien of er overeenkomsten of verschillen tussen zitten. Van de resultaten hebben we een conclusie geschreven door alle uitkomsten te vergelijken. 
-        Met de conclusie konden we ideeën verzinnen voor een concept. De uitkomsten van de conclusie die goed te gebruiken zijn hebben we opgeschreven in een apart documentje. Wat mij vooral opviel was dat een van mijn geïnterviewde personen had gezegd dat ze minder afstand wilde hebben tussen het publiek en de muzikanten. Dit vond ik een zeer interessante opmerking. Ik had dit voorgelegd aan het groepje en ze vonden ook dat we hier iets mee moesten doen. Daaruit kwam het eerste concept “Get closer”. Hiervoor heb ik een visual gemaakt.
+        <p>Dinsdag zijn we verder gegaan met de twee concepten. De eerste concept ging best makkelijk om verder uit te werken en alle onderdelen (doelstellingen, communicatiestrategie etc.) uit te schrijven. </p>
+
+        <p>Daarbij had ik de communicatiestrategie beschreven. De communicatiestrategie van het concept Dolce far niente is merkactivatiestrategie. Deze communicatiestrategie is gekozen omdat we met dit concept meer publiciteit willen creëren voor het Gelders Orkest. Zo winnen we mensen voor het merk, binden we mensen voor het merk en creëren we ambassadeurs voor het merk.
+De communicatiestrategie die we hadden gekozen bij het andere concept is Word of Mouth. Deze communicatiestrategie is gekozen omdat we met dit concept mensen willen aansporen om het aan andere te vertellen, zoals vrienden of familie. Op die manier wordt de ervaring mondeling doorgegeven van persoon naar persoon en wordt er gratis reclame gemaakt voor het orkest.
+        </p>
+
+                <p>De tweede concept ging lastiger. Het concept was een samenvoeging van twee concepten. We hadden gisteren nog niet een goede omschrijving van het concept gemaakt. De groepsleden vonden het allemaal nog vaag en zagen het niet echt voor zich. Ik vertelde toen hoe ik het voor ogen had. Ik legde het in een storytelling manier uit. De andere groepsleden kregen toen een veel beter idee van het concept en gingen zelf ook dingen bij verzinnen. Toen hebben we alle onderdelen van het concept uitgeschreven. Ik heb hiervan de strategie uitgeschreven en een visualisatie van gemaakt. 
         </p>
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
@@ -102,12 +105,8 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </dt></dl>
         </div>
 
-        <p>Daarna hebben we nog twee andere concepten verzonnen. Uit de doelgroep analyse kwam naar voren dat jongeren het imago van klassieke muziek erg saai en ouderwets vinden. Hiervoor hadden we een concept verzonnen dat heet “Lekker hip”. 
-        Als derde concept kwam ik op het idee om de mindfulness concept van vorige week aan te passen. We kregen namelijk feedback van onze docenten dat dit nog geen concept was. Omdat we ook te horen kregen van onze doelgroep dat ze klassieke muziek in rust luisteren, wilden we deze idee gaan verbeteren tot een concept. 
-        Het laatste concept kwam iemand op het idee om zintuigen te gaan gebruiken bij een klassiek concert.
-        </p>
 
-        <p>Als laatst hebben we deze concepten ingeleverd en zullen we volgende week feedback krijgen over de concepten.</p>
+        <p>Woensdag kregen we een introductie over SCRUM. Ik was hier al bekend mee. De presentatie was precies hetzelfde als vorig jaar, dus voor mij had het geen meerwaarde. Het was wel fijn om een opfrisser over SCRUM te krijgen. Daarna hebben we de twee concepten met alle onderdelen ingeleverd. Omdat we gisteren alles al af hadden, hoefde we hier niet veel vandaag meer voor te doen. </p>
 
         <div class="titelreflectie">
             <span>
@@ -115,7 +114,7 @@ doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, commun
             </span>
         </div>
 
-        <p>Het was erg leerzaam om me meer te verdiepen in de doelgroep. Ik kwam namelijk op informatie die ik anders nooit had gekregen. Ook was het leerzaam om te gaan interviewen. Ik merk aan mezelf dat ik het vaak nog lastig vind bij het doorvragen. Toch kreeg ik bruikbare informatie die wij als groep goed konden gebruiken. Ik vond het wel lastig om van deze doelgroep analyse concepten te verzinnen. De grootste deel van de informatie die we kregen hadden we al een concept van gemaakt. Gelukkig had ik van mijn geïnterviewde personen wel informatie die inspiratie gaf voor een concept. Dit konden we goed gebruiken.</p><br>
+        <p>Ik merkte dat deze week een stuk minder productief was. Dit kwam vooral omdat we geen tutor hadden waar we feedback aan konden vragen en er waren weinig workshops. Bij de consultanty uren waren er ook geen leraren. Maandag met SCO hadden we maar een feedback moment van deze week. We hebben wel heel veel aan deze feedback gehad. We hadden twee concepten uitgekozen en ik kreeg een steeds beter idee over de concepten. Verder vond ik de workshops matig. Dit kwam waarschijnlijk omdat de workshops die ik kreeg precies hetzelfde was als vorig jaar. Ik merkte dat ik hierdoor niet veel van leerde. Dinsdag vond ik dat we als groep veel hadden gedaan. We hadden de twee concepten uitgewerkt met alle onderdelen erbij die we moesten inleveren voor SCO. Zelf vond ik dat ik hier actief mee over nadacht. Ik had mijn mening en visie over de concepten gegeven.  Hierdoor creeërde we ook de concepten. Woensdag vond ik de minst productieve dag van deze week. Geen leraren om feedback te vragen en dat hadden we juist nodig omdat we klaar waren. Met de workshop van SCRUM kregen we wel wat nuttige informatie. Vooral met de groep was het fijn om een introductie te krijgen. Ik vond het wel jammer dat iedereen van het groepje meteen na de workshop weg ging. We hadden namelijk nog de opdracht om een scrumbord te maken. Iedereen vond dat we het volgende week konden doen. ik was hier niet mee eens, maar iedereen ging weg. Dit vond ik jammer als afsluiting. Omdat ik een gevoel kreeg dat hun minder motivatie hadden als ik.</p><br>
         </div>
     </div>
 
