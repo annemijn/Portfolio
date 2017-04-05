@@ -1117,10 +1117,10 @@ body#aboutbody
 }
 
 #gallery-3 .gallery-item {
-    float: left;
     margin-top: 10px;
     text-align: center;
     width: 33%;
+    margin: 0 auto;
 }
 .gallery-fullwidth {
     float: none !important;
@@ -1130,7 +1130,6 @@ body#aboutbody
 }
 .gallery-item {
     width: 49% !important;
-    margin: 0 0.5% 3px !important;
 }
 
 .gallery-item a {
@@ -2735,10 +2734,10 @@ body#aboutbody
 }
 
 #gallery-3 .gallery-item {
-    float: left;
     margin-top: 10px;
     text-align: center;
     width: 33%;
+    margin: 0 auto;
 }
 .gallery-fullwidth {
     float: none !important;
@@ -2748,7 +2747,6 @@ body#aboutbody
 }
 .gallery-item {
     width: 49% !important;
-    margin: 0 0.5% 3px !important;
 }
 
 .gallery-item a {
@@ -4414,10 +4412,11 @@ height:215px; }
 }
 
 #gallery-3 .gallery-item {
-    float: left;
+
     margin-top: 10px;
     text-align: center;
     width: 33%;
+    margin: 0 auto;    
 }
 .gallery-fullwidth {
     float: none !important;
@@ -4427,7 +4426,6 @@ height:215px; }
 }
 .gallery-item {
     width: 49% !important;
-    margin: 0 0.5% 3px !important;
 }
 
 .gallery-item a {
@@ -5744,10 +5742,10 @@ height:215px; }
 }
 
 #gallery-3 .gallery-item {
-    float: left;
     margin-top: 10px;
     text-align: center;
     width: 33%;
+    margin: 0 auto;
 }
 .gallery-fullwidth {
     float: none !important;
@@ -5757,7 +5755,6 @@ height:215px; }
 }
 .gallery-item {
     width: 49% !important;
-    margin: 0 0.5% 3px !important;
 }
 
 .gallery-item a {

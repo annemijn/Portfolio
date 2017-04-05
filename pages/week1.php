@@ -137,7 +137,7 @@ Kittenweek is een concept omdat er verschillende ideeën uit voortkomen. Zoals d
 Deze concepten zullen we aan onze tutor voorleggen.<br>
 </p>
 
-                <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+                <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-item">
             <dt class="gallery-icon landscape">
 
 <img src="../images/scoweek1_2.png"class="attachment-thumbnail" height="548" width="958">

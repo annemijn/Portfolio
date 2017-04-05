@@ -89,7 +89,7 @@
         <p>Maandag zijn we verder gegaan met de taken die we vorige week hadden verdeeld. We lieten aan elkaar zien wat we al hadden gemaakt. Ik liet de logo zien die ik had gemaakt en daarbij kreeg ik nog feedback puntjes. Dit heb ik toegepast en uiteindelijk is dit de logo geworden:</p>
         
 
-        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-item">
             <dt class="gallery-icon landscape">
 
         <img src="../images/logoconcept.png"class="attachment-thumbnail" height="548" width="958">

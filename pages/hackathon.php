@@ -100,7 +100,7 @@
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/hackathon2.jpg"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/hackathon2.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
