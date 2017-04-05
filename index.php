@@ -174,7 +174,7 @@
                        
                  <a class="list-big-block-a hexagon dev " href="pages/GIT.php">
                         <span class="list-big-block-hover">
-                            <h3>Git</h3>
+                            <h3>Git repository</h3>
                             <div class="list-big-block-excerpt">
                             Met DEV kregen we een workshop over Git.
                             </div>
@@ -246,7 +246,7 @@
                         <span class="list-big-block-hover">
                             <h3>Media- en contenstrategie</h3>
                             <div class="list-big-block-excerpt">
-                            In de vijfde week zijn we ons concept beter gaan uitwerken voor de presentatie van volgende week.           
+                            Voor ons concept hebben we de media- en contentstrategie gemaakt met behulp van een customer journey.         
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
