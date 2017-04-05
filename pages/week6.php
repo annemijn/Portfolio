@@ -64,11 +64,11 @@
 
 
     <div class="project-title-3d">
-            <h1>Conceptweek 6</h1>
+            <h1>week 6 Conceptpitch</h1>
     </div>
     <div class="wrapperproject">
-    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week4.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week4.php" rel="next">Conceptweek 5</a></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week6.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week6.php" rel="prev">Conceptweek 6</a></div>
+    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week5.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week5.php" rel="next">Conceptweek 5</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="sprint1.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="sprint1.php" rel="prev">SCO sprint 1</a></div>
     
                      <div class="titelinleiding">
             <span>

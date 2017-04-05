@@ -187,7 +187,7 @@
                  </a>
          
                         
-                    <a class="list-big-block-a hexagon sco " href="pages/interviews.php">
+                    <a class="list-big-block-a hexagon sco " href="pages/week6.php">
                         <span class="list-big-block-hover">
                             <h3>Week 6 Conceptpitch</h3>
                             <div class="list-big-block-excerpt">
@@ -205,9 +205,9 @@
                 </div>                        
 
            <div class="list-big-block-row-b" style="top: -134px;">
-                <a class="list-big-block-b hexagon sco " href="pages/concept3.php">
+                <a class="list-big-block-b hexagon sco " href="pages/sprint1.php">
                         <span class="list-big-block-hover">
-                            <h3>Sprint 1</h3>
+                            <h3>SCO Sprint 1</h3>
                             <div class="list-big-block-excerpt">
                             In deze sprint gaan we verder met onze gekozen concept.                        
                             </div>
@@ -219,7 +219,7 @@
                         </canvas>
                     </a>
 
-                <a class="list-big-block-b hexagon dev " href="pages/concept3.php">
+                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
                         <span class="list-big-block-hover">
                             <h3>Hackathon</h3>
                             <div class="list-big-block-excerpt">

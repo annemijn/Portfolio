@@ -68,7 +68,7 @@
     </div>
     <div class="wrapperproject">
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week4.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week4.php" rel="next">Conceptweek 4</a></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week6.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week6.php" rel="prev">Conceptweek 6</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week6.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week6.php" rel="prev">week 6 conceptpitch</a></div>
     
                      <div class="titelinleiding">
             <span>
