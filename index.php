@@ -229,7 +229,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/hackathon.png" />
+                        src="images/ht.png" />
                         </canvas>
                     </a>
          
