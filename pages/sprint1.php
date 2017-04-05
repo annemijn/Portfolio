@@ -77,7 +77,7 @@
             </div>
             
     	<div class="projecttext">
-        <p></p>
+        <p>Met de feedback van de opdrachtgever kunnen we het concept aanpassen en verbeteren. Verder gaan we het concept verder uitbreiden en gaan we nadenken over de campagne.</p>
         </div>
                  <div class="titeluitleg">
             <span>
@@ -86,13 +86,13 @@
             </div>
             
     	<div class="projecttext">
-        <p></p>
+        <p>Sochtends kregen we een lezing van Perplex. Dit was erg interessant. Daarna zijn we met onze concept verder gegaan. Op onze scrumboard hebben we taken toegevoegd die we vandaag af willen hebben. We wilden personas maken op basis van onze interviews. Daarnaast wilden we een analyse maken van de resultaten van onze enquêteonderzoek. Samen met Laura zijn we de persona’s gaan maken. Dit hebben we in Illustrator gedaan. Op internet heb ik verschillende voorbeelden van persona’s opgezocht die het meest erbij past. Op basis van al de voorbeeld persona’s hebben we een eigen persona samengesteld. Daarin hebben we de gegevens verwerkt die uit onze doelgroep analyse kwam. De gegevens wat interessant waren zijn: persoonlijkheid, merken, doelen, frustraties en motivaties. We hebben twee extreem verschillende persona’s gemaakt die allebei bij onze doelgroep past.</p>
         
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/persona.png"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/personas.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
