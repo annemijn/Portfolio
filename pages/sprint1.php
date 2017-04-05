@@ -63,12 +63,12 @@
 
 
 
-    <div class="project-title-3d">
-            <h1>week 6 Conceptpitch</h1>
+    <div class="project-title-website">
+            <h1>SCO Sprint 1</h1>
     </div>
     <div class="wrapperproject">
-    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week5.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week5.php" rel="next">Conceptweek 5</a></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="sprint1.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="sprint1.php" rel="prev">SCO sprint 1</a></div>
+    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week6.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week6.php" rel="next">week 6 conceptpich</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="media.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="media.php" rel="prev">media-en contenstrategie</a></div>
     
                      <div class="titelinleiding">
             <span>
@@ -77,7 +77,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>Deze week gaan we onze twee concepten laten zien aan de opdrachtgever in Arnhem. We gaan de presentatie voorbereiden en de concepten beter uitwerken.</p>
+        <p></p>
         </div>
                  <div class="titeluitleg">
             <span>
@@ -86,32 +86,24 @@
             </div>
             
     	<div class="projecttext">
-        <p>Maandag zijn we verder gegaan met de taken die we vorige week hadden verdeeld. We lieten aan elkaar zien wat we al hadden gemaakt. Ik liet de logo zien die ik had gemaakt en daarbij kreeg ik nog feedback puntjes. Dit heb ik toegepast en uiteindelijk is dit de logo geworden:</p>
+        <p></p>
         
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/logoconcept.png"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/persona.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
-        <p>Verder waren de dia’s voor de presentatie, de video’s en de posters ook af. Daarna zijn we gaan opschrijven wat we over de concepten wilden vertellen en is de presentatie gemaakt. Verder heb ik nog daarna mijn stuk die ik ging presenteren voorbereid. Ik heb wat steekwoorden opgeschreven die belangrijk waren om te vertellen. </p>
+        <p></p>
 
-        <p>Dinsdag was de conceptpresentatie bij Perplex. Ik ging presenteren met Arjan. Ik vond het presenteren spannend voor zoveel mensen. Ik vond dat het iets minder goed ging als vorige week. Dit kwam waarschijnlijk door de zenuwen. We kregen van Perplex een aantal feedback puntjes. Hij vond dat de visuals die we bij elke concept hadden gemaakt erg sterk. Wat hij wel jammer vond was dat we niet goed hadden onderbouwd waarom deze concepten jongeren zal aanspreken. We moesten wat meer onderzoek in de presentatie verwerken. We zijn daarna op een terrasje gaan zitten en gaan nadenken over welke concept we gaan uitwerken. We waren allemaal best snel eens om het concept Dolce far niente te kiezen en daarmee verder te gaan.
+        <p>
         </p>
 
-        <p>Woensdag hebben we de feedback verwerkt van de presentatie. Daarna begonnen we met het scrumboard in te richten. Ik nam de taak op me. Het scrumboard had ik vorig jaar ook gedaan, dus ik wist precies hoe die eruit moet zien. Daarna zijn we de user stories gaan bedenken voor in de backlog. Ik merkte dat een aantal mensen niet zo goed snapte wat er moet de user stories wordt gedaan. Ik heb toen aan hun duidelijk uitgelegd hoe het precies in zijn werk gaat. Daarna vonden ze het een stuk duidelijker.  </p>
+        <p></p>
 
-        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
-            <dt class="gallery-icon landscape">
 
-        <img src="../images/week6.png"class="attachment-thumbnail" height="548" width="958">
-            </dt></dl>
-        </div>
-
-        <p>Nadat de user stories waren gemaakt, zijn we de taken gaan verzinnen voor deze sprint. De taken die we vandaag wilden doen waren een enquête maken en de mediastrategie uitwerken. We wilden graag een enquête rond sturen op Facebook voor onderzoek. Zo kunnen we in de volgende presentatie aantonen dat de jongeren dit concept aanspreken. We hebben ook de media strategie gemaakt. De resultaten kan je <a href="media.php">hier</a> zien. 
-        </p>
 
 
         <div class="titelreflectie">
@@ -120,7 +112,7 @@
             </span>
         </div>
 
-        <p>Het was voor mij een leerzame week. De conceptpresentatie was erg nuttig en het voelde goed dat ik de taak op me nam om te presenteren. Het ging niet vlekkeloos, maar het ging ook niet slecht. Ik merk dat ik me er steeds zekerder bij voel. Ik laat de gedachte dat er zoveel mensen aanwezig zijn achter me en probeer ik zo duidelijk mogelijk mijn verhaal te vertellen. Door rustig te blijven en je tijd te nemen merk ik dat het bij mij goed gaat. Ik hoorde van andere groepsleden dat ze het goed vonden gaan, dus dat was ook een zelfverzekerdheid boost. Deze week nam ik de taak op me om de scrumboard in te richten en om aan iedereen uit te leggen hoe het werkt. Een aantal waren er al bekend mee, maar de meeste niet. Ik hoorde van ze dat ze het nu beter begrepen met mijn uitleg. Verder heb ik een duidelijke scrumboard gemaakt die we goed kunnen gebruiken bij elke sprint. </p><br>
+        <p></p><br>
         </div>
     </div>
 
