@@ -63,7 +63,7 @@
 
 
 
-    <div class="project-title-video">
+    <div class="project-title-ict">
             <h1>Prototype: bordspel</h1>
     </div>
     <div class="wrapperproject">
@@ -108,7 +108,7 @@
 
         <div id="videoproject">
         <video width="100%" controls>
-          <source src="../bordspel.mp4" type="video/mp4" />
+          <source src="../images/bordspel.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         </div>
