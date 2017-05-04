@@ -70,15 +70,16 @@
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="sprint1.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="sprint1.php" rel="next">Sco sprint 1</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="media.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="media.php" rel="prev">media-en contenstrategie</a></div>
     
-                     <div class="titelinleiding">
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>Voor ons concept gingen we een media-en contenstrategie maken. Hierbij maken we gebruik van de customer journey om het helderder te maken.</p>
         </div>
+
+        <p>Ik vond het heel nuttig om de mediastrategie uit te werken voor dit concept. Hierdoor kwamen we op meer media middelen waar we nog niet aan gedacht hadden. Met deze strategie weten we precies welke media we willen gaan gebruiken en hoe we dit gaan uitwerken. Ook de customer journey is een goede diagram voor het concept. Je kan duidelijk zien welke media wanneer worden gebruikt en in welke fase dit zit. Ik heb dit vorig jaar ook moeten maken, maar ik merk dat ik hier veel van geleerd heb. Die van vorig jaar was niet goed uitgewerkt en niet overzichtelijk. Met deze customer journey krijg je een duidelijk overzicht. Met dit overzicht merk ik dat ik een duidelijker beeld heb van het pad die de klant gaat doorlopen. </p>
+        <p>Ook de contentkalender van de contenstrategie vond ik fijn om te maken voor het concept. Hierdoor merkte ik dat je een duidelijkere beeld krijgt wanneer je welke media je gebruikt en welke middelen je daarvan gaat uitvoeren. Dit maakt de campagne nog realistischer en kan je het daadwerkelijk uitvoeren. Net zoals de customer journey had ik vorig jaar ook al een keer een contentkalender gemaakt. Ik merk dat ik hier ook veel meer geleerd heb dan vorig jaar. Ik heb me deze keer veel meer verdiept en serieuzer aangepakt. Ook heb ik alles duidelijk beargumenteerd. Ik vond het leuk om dit uit te werken.
+        </p><br>
+
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -86,7 +87,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>Voor de mediastrategie hebben we het diagram van paid,owned,earned en social media bijgenomen. Bij elke zijn we media gaan verzinnen voor onze campagne. Deze zie je hieronder. </p>
+        <p>Voor ons concept gingen we een media-en contenstrategie maken. Hierbij maken we gebruik van de customer journey om het helderder te maken. Voor de mediastrategie hebben we het diagram van paid,owned,earned en social media bijgenomen. Bij elke zijn we media gaan verzinnen voor onze campagne. Deze zie je hieronder. </p>
         
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
@@ -106,18 +107,44 @@
             </dt></dl>
         </div>
 
-        <p></p>
+        <p>We kregen nog feedback van de docent. Ze vond dat bij de middelen nog uitgelegd moest worden waarom we deze gebruiken. Verder vond ze dat bij de customer journey teveel middelen stond. We moesten ons meer op een aantal middelen focussen.</p>
 
+        <p>Hierna hebben we een nieuwe customer journey gemaakt waarop we een aantal middelen hebben weggehaald die niet nodig waren voor onze campagne. Het belangrijkste voor ons is om bij awareness de doelgroep via social media en word of mouth aan te spreken. Ook is de campagnestunt hierbij belangrijk. Hiermee krijgt de doelgroep mee hoe het event gaat worden. Bij consideration is het belangrijk om de website van het event te laten zien. hierdoor zal de doelgroep overwegen om er naar toe te gaan. Daarna is het belangrijk om bij engage de doelgroep een ticket te laten kopen en naar het event toe te gaan.</p>
 
+        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
 
-
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
+        <img src="../images/mediastrategie.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
         </div>
 
-        <p>Ik vond het heel nuttig om de mediastrategie uit te werken voor dit concept. Hierdoor kwamen we op meer media middelen waar we nog niet aan gedacht hadden. Met deze strategie weten we precies welke media we willen gaan gebruiken en hoe we dit gaan uitwerken. Ook de customer journey is een goede diagram voor het concept. Je kan duidelijk zien welke media wanneer worden gebruikt en in welke fase dit zit. Ik heb dit vorig jaar ook moeten maken, maar ik merk dat ik hier veel van geleerd heb. Die van vorig jaar was niet goed uitgewerkt en niet overzichtelijk. Met deze customer journey krijg je een duidelijk overzicht. </p><br>
+        <p>Deze customer journey hebben we laten zien aan onze docent. Ze vond dat we meer moesten nadenken over wat we op social media gingen zetten. We waren er nog niet uit of we sfeer, info of line up het belangrijkste van social media werd. Verder vond ze dat social media zoals Instagram meer tussen consideration en engage moet staan.</p>
+
+        <p>Met het groepje zijn we toen gaan nadenken wat het belangrijkste was van onze concept om aan de doelgroep te laten zien op social media. We kwamen eruit dat we vooral het “chill” aspect wilde laten zien. Dit is namelijk onze selling point. </p>
+        
+        <p>Laura en ik zijn voor de contentstrategie de contentkalender gaan maken. Het was namelijk belangrijk om eerst uit te denken wat we bij elke media voor middelen willen uitvoeren, zodat we daarna de customer journey helderder kunnen maken.</p>
+
+        <p>Eerst zijn we gaan nadenken wanneer we willen gaan beginnen met het gebruiken van de media. 5 augustus is onze event. We willen 2 maanden voordat het event begint starten. Dit is begin juni. Het weer in Nederland wordt dan steeds beter en de studenten kijken steeds meer uit naar de zomervakantie en de festivals. We hebben bij elke week eronder neergezet wat voor content we gebruiken. Bij de social media hebben we verschillende achtergronden gebruikt die aantonen voor welke social media het is. Na het event hebben we nog een week toegevoegd. Dit is belangrijk om op social media foto’s te delen van het event en een aftermovie te laten zien. </p>
+
+        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
+
+        <img src="../images/contenstrategie.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
+        </div>
+
+        <p>Hierna moeten we nog uitschrijven waarom we voor deze middelen hebben gekozen. Daarbij had ik alle middelen onder elkaar gezet. Hierbij heb ik bij elke middel geschreven waarom we dit gaan uitvoeren en wat het inhoudt. <br>
+        Daarna heb ik de customer journey veranderd op basis van de contentkalender. Hierbij zijn de middelen op andere plekken gezet en zijn er een aantal toegevoegd die belangrijk zijn voor de customer. </p>
+
+        <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+            <dt class="gallery-icon landscape">
+
+        <img src="../images/mediastrategiev2.png"class="attachment-thumbnail" height="548" width="958">
+            </dt></dl>
+        </div>
+
+        <p>Nadat we de contentstrategie hadden gemaakt en de customer journey hadden aangepast gingen we alles in een document zetten. Dit hebben we daarna ingeleverd en zullen we feedback krijgen van de docent. Klik <a href="../mediacontentstrategie.pdf">hier</a> voor de pdf.
+
         </div>
     </div>
 

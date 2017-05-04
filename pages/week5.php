@@ -69,16 +69,17 @@
     <div class="wrapperproject">
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week4.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week4.php" rel="next">Conceptweek 4</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week6.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week6.php" rel="prev">week 6 conceptpitch</a></div>
-    
-                     <div class="titelinleiding">
+   
+
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>In de vijfde week zijn we ons concept verder gaan uitwerken voor de presentatie van volgende week.</p>
         </div>
+
+        <p>Ik vond dat week 5 een productieve week was. Ik heb een video, moodboards en een logo voor het concept gemaakt. Verder heb ik initiatief genomen om te gaan presenteren. Ik ben namelijk niet zo goed in presenteren en wil me daar heel graag in verbeteren. Ik merkte dat de proefpresentatie goed ging en dat ik al wat zelfverzekerder werd met presenteren. Ik was erg blij met het resultaat van de logo die ik had gemaakt. Het was ook heel fijn dat groepsleden feedback gaven en ook enthousiast waren over mijn logo. Ik vond dat de samenwerking in de groep goed ging. Iedereen was productief bezig en had zijn/haar eigen taak. Wat ik ook erg fijn vond was dat we vaak er allemaal al om 9 uur waren. We begonnen gelijk met onze project en stopte pas als we genoeg gedaan hadden. Dit was meestal rond 15.00 uur/ 15.30 uur.  Ik ben erg benieuwd naar de presentatie van volgende week of ze enthousiast zijn over onze concepten.</p><br>
+
+
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -86,7 +87,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>Maandag zijn we de pitch gaan maken die we voor volgende week moeten presenteren. Deze presentatie gaan we morgen ook al proef presenteren voor de klas. Om het concept duidelijker te maken wilde we graag een sfeervideo maken. Ik had aangeboden om de video te maken voor het concept Dolce far niente. Ik had al een tijdje niet meer met Premier Pro gewerkt dus het was fijn om hier mee aan de slag te gaan zodat ik het weer kan leren. Bij de sfeervideo wilde we laten zien dat tegenwoordig studenten veel stress hebben. Met beelden dat de persoon steeds gestrester werd met het maken van huiswerk en op zijn mobiel te zitten creëerde ik een onrustige sfeer. Dit werd in de loop van de video steeds erger. Er kwamen irritante geluiden bij zoals een piep en meldingsgeluiden van apparaten. De klok ging steeds sneller tikken en zijn hart pompte steeds harder. Daarna zag je een zwart beeld en hoorde je een vredig stuk klassiek muziek.</p>
+        <p>In de vijfde week zijn we ons concept verder gaan uitwerken voor de presentatie van volgende week. Maandag zijn we de pitch gaan maken die we voor volgende week moeten presenteren. Deze presentatie gaan we morgen ook al proef presenteren voor de klas. Om het concept duidelijker te maken wilde we graag een sfeervideo maken. Ik had aangeboden om de video te maken voor het concept Dolce far niente. Ik had al een tijdje niet meer met Premier Pro gewerkt dus het was fijn om hier mee aan de slag te gaan zodat ik het weer kan leren. Bij de sfeervideo wilde we laten zien dat tegenwoordig studenten veel stress hebben. Met beelden dat de persoon steeds gestrester werd met het maken van huiswerk en op zijn mobiel te zitten creëerde ik een onrustige sfeer. Dit werd in de loop van de video steeds erger. Er kwamen irritante geluiden bij zoals een piep en meldingsgeluiden van apparaten. De klok ging steeds sneller tikken en zijn hart pompte steeds harder. Daarna zag je een zwart beeld en hoorde je een vredig stuk klassiek muziek.</p>
         
         <p><span>Video</span><br>
         Nadat de presentatie en de video van het tweede concept was gemaakt, moesten we kiezen wie er wilde presenteren. Ik had de initiatief genomen om te presenteren. Dit ging ik samen met Arjan doen. We hadden daarna nog even afgesproken wie welke concept ging presenteren. </p>
@@ -131,15 +132,6 @@
             </dt></dl>
         </div>
         
-
-
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-        </div>
-
-        <p>Ik vond dat week 5 een productieve week was. Ik heb een video, moodboards en een logo voor het concept gemaakt. Verder heb ik initiatief genomen om te gaan presenteren. Ik ben namelijk niet zo goed in presenteren en wil me daar heel graag in verbeteren. Ik merkte dat de proefpresentatie goed ging en dat ik al wat zelfverzekerder werd met presenteren. Ik was erg blij met het resultaat van de logo die ik had gemaakt. Het was ook heel fijn dat groepsleden feedback gaven en ook enthousiast waren over mijn logo. Ik vond dat de samenwerking in de groep goed ging. Iedereen was productief bezig en had zijn/haar eigen taak. Wat ik ook erg fijn vond was dat we vaak er allemaal al om 9 uur waren. We begonnen gelijk met onze project en stopte pas als we genoeg gedaan hadden. Dit was meestal rond 15.00 uur/ 15.30 uur.  Ik ben erg benieuwd naar de presentatie van volgende week of ze enthousiast zijn over onze concepten.</p><br>
         </div>
     </div>
 

@@ -68,7 +68,7 @@
     <div class="portfolio-list">
     <div class="portfolio-categories">
             <span id="all" class="selected"><b>All</b></span>
-            <span id="uxu" class="primary-cats"><b>UXU</b></span>                                    
+            <span id="uxu" class="primary-cats"><b>UX</b></span>                                    
             <span id="sco" class="primary-cats"><b>SCO</b></span>                                    
             <span id="dev" class="primary-cats"><b>DEV</b></span> 
              <span id="scrum" class="primary-cats"><b>SCRUM</b></span>                                                          

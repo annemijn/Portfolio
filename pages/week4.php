@@ -70,24 +70,24 @@
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week3.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week3.php" rel="next">Conceptweek 3</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week5.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week5.php" rel="prev">Conceptweek 5</a></div>
     
-                     <div class="titelinleiding">
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>In de vierde week kiezen we twee concepten uit die we verder gaan uitwerken. Dit doen we door middel van de volgende onderwerpen uit te werken: opdracht
-doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, communicatiestrategie, concept visualisatie en storyline van het concept. Verder krijgen we een introductie over SCRUM.</p>
         </div>
-                 <div class="titeluitleg">
+
+        <p>Ik merkte dat deze week een stuk minder productief was. Dit kwam vooral omdat we geen tutor hadden waar we feedback aan konden vragen en er waren weinig workshops. Bij de consultanty uren waren er ook geen leraren. Maandag met SCO hadden we maar een feedback moment van deze week. We hebben wel heel veel aan deze feedback gehad. We hadden twee concepten uitgekozen en ik kreeg een steeds beter idee over de concepten. Verder vond ik de workshops matig. Dit kwam waarschijnlijk omdat de workshops die ik kreeg precies hetzelfde was als vorig jaar. Ik merkte dat ik hierdoor niet veel van leerde. Dinsdag vond ik dat we als groep veel hadden gedaan. We hadden de twee concepten uitgewerkt met alle onderdelen erbij die we moesten inleveren voor SCO. Zelf vond ik dat ik hier actief mee over nadacht. Ik had mijn mening en visie over de concepten gegeven.  Hierdoor creeërde we ook de concepten. Woensdag vond ik de minst productieve dag van deze week. Geen leraren om feedback te vragen en dat hadden we juist nodig omdat we klaar waren. Met de workshop van SCRUM kregen we wel wat nuttige informatie. Vooral met de groep was het fijn om een introductie te krijgen. Ik vond het wel jammer dat iedereen van het groepje meteen na de workshop weg ging. We hadden namelijk nog de opdracht om een scrumbord te maken. Iedereen vond dat we het volgende week konden doen. ik was hier niet mee eens, maar iedereen ging weg. Dit vond ik jammer als afsluiting. Omdat ik een gevoel kreeg dat hun minder motivatie hadden als ik.</p><br>
+
+
+   <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
             </span>
             </div>
             
     	<div class="projecttext">
-        <p>Maandag begonnen we met een workshop van SCO. Voor de workshop moesten de concepten worden uitgeprint op een A4. Daarop moesten de korte omschrijving, pay-off en een visualisatie van de concept staan. Ik heb dit thuis bij elke concept gedaan en daarna uitgeprint. Deze hebben wij opgehangen. Daarna kregen we een workshop over de mediastrategie. Hier kregen we duidelijk uitleg over. Om de communicatiestrategie toe te passen moesten we eerst twee concepten uitkiezen. Elk groepslid had op 5 concepten gestemd. Daaruit kwamen 5 concepten waarop er het meest was gestemd. Deze concepten hebben we aan de docent voorgelegd. Met de docent hebben we de twee beste concepten uitgekozen. Deze concepten zullen we verder uitwerken en een communicatiestrategie bij maken.</p>
+        <p>In de vierde week kiezen we twee concepten uit die we verder gaan uitwerken. Dit doen we door middel van de volgende onderwerpen uit te werken: opdracht
+doelstellingen, doelgroepanalyse, boodschap - propositie - positionering, communicatiestrategie, concept visualisatie en storyline van het concept. Verder krijgen we een introductie over SCRUM. Maandag begonnen we met een workshop van SCO. Voor de workshop moesten de concepten worden uitgeprint op een A4. Daarop moesten de korte omschrijving, pay-off en een visualisatie van de concept staan. Ik heb dit thuis bij elke concept gedaan en daarna uitgeprint. Deze hebben wij opgehangen. Daarna kregen we een workshop over de mediastrategie. Hier kregen we duidelijk uitleg over. Om de communicatiestrategie toe te passen moesten we eerst twee concepten uitkiezen. Elk groepslid had op 5 concepten gestemd. Daaruit kwamen 5 concepten waarop er het meest was gestemd. Deze concepten hebben we aan de docent voorgelegd. Met de docent hebben we de twee beste concepten uitgekozen. Deze concepten zullen we verder uitwerken en een communicatiestrategie bij maken.</p>
 
         <p>Dinsdag zijn we verder gegaan met de twee concepten. De eerste concept ging best makkelijk om verder uit te werken en alle onderdelen (doelstellingen, communicatiestrategie etc.) uit te schrijven. </p>
 
@@ -108,13 +108,7 @@ De communicatiestrategie die we hadden gekozen bij het andere concept is Word of
 
         <p>Woensdag kregen we een introductie over SCRUM. Ik was hier al bekend mee. De presentatie was precies hetzelfde als vorig jaar, dus voor mij had het geen meerwaarde. Het was wel fijn om een opfrisser over SCRUM te krijgen. Daarna hebben we de twee concepten met alle onderdelen ingeleverd. Omdat we gisteren alles al af hadden, hoefde we hier niet veel vandaag meer voor te doen. </p>
 
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-        </div>
 
-        <p>Ik merkte dat deze week een stuk minder productief was. Dit kwam vooral omdat we geen tutor hadden waar we feedback aan konden vragen en er waren weinig workshops. Bij de consultanty uren waren er ook geen leraren. Maandag met SCO hadden we maar een feedback moment van deze week. We hebben wel heel veel aan deze feedback gehad. We hadden twee concepten uitgekozen en ik kreeg een steeds beter idee over de concepten. Verder vond ik de workshops matig. Dit kwam waarschijnlijk omdat de workshops die ik kreeg precies hetzelfde was als vorig jaar. Ik merkte dat ik hierdoor niet veel van leerde. Dinsdag vond ik dat we als groep veel hadden gedaan. We hadden de twee concepten uitgewerkt met alle onderdelen erbij die we moesten inleveren voor SCO. Zelf vond ik dat ik hier actief mee over nadacht. Ik had mijn mening en visie over de concepten gegeven.  Hierdoor creeërde we ook de concepten. Woensdag vond ik de minst productieve dag van deze week. Geen leraren om feedback te vragen en dat hadden we juist nodig omdat we klaar waren. Met de workshop van SCRUM kregen we wel wat nuttige informatie. Vooral met de groep was het fijn om een introductie te krijgen. Ik vond het wel jammer dat iedereen van het groepje meteen na de workshop weg ging. We hadden namelijk nog de opdracht om een scrumbord te maken. Iedereen vond dat we het volgende week konden doen. ik was hier niet mee eens, maar iedereen ging weg. Dit vond ik jammer als afsluiting. Omdat ik een gevoel kreeg dat hun minder motivatie hadden als ik.</p><br>
         </div>
     </div>
 

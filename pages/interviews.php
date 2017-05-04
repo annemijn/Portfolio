@@ -67,14 +67,14 @@
     <div class="wrapperproject">
         <div style="display: none;" class="single-post-arrows single-prev-post"><span><a class="single-prev-post-a"></a></span></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="forums.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="forums.php" rel="prev">Forums</a></div>
-                             <div class="titelinleiding">
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+                <h3>REFLECTIE</h3>
             </span>
-            </div>
-            <div class="projecttext">
-            <p>Voor het thema doelgroep van deze conceptweek ging ik interviewen. Met het interviewen kan je meer informatie krijgen over de doelgroep en kan er een analyse worden gemaakt.
-            </div>
+        </div>
+
+        <p>Ik vind interviewen een hele goede gebruikersonderzoek. Je kan hierdoor duidelijke informatie krijgen en op nieuwe ideeën komen. Ook kan je informatie krijgen die je helemaal niet had verwacht. Ik vond het soms lastig om door te vragen bij het interviewen. Ik wist op dat moment niet wat ik moest vragen om meer informatie te krijgen. Bij de laatste persoon die ik ging interviewen ging het al wel wat makkelijker. Ik wist wat ik wilde vragen en luisterde aandachtig naar de persoon. Verder heb ik bij alle drie de interviews goede informatie gekregen. Dit helpt heel erg om de doelgroep analyse te maken en uiteindelijk concepten te verzinnen.</p>
+
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -82,9 +82,9 @@
             </div>
             
     	<div class="projecttext">
-        <p>We kregen de eerste workshop van UXU. Dit ging over interviewen. Als opdracht kregen we om individueel drie mensen uit onze doelgroep te gaan interviewen. Voordat we de interviews konden uitvoeren hebben we samen de interview vragen opgesteld. Als onderzoeksvraag hebben we genomen: Hoe denkt de gebruiker over klassieke muziek en klassieke concerten en hoe komt dat?</p>
+        <p>We kregen de eerste workshop van UX. Dit ging over interviewen. Als opdracht kregen we om individueel drie mensen uit onze doelgroep te gaan interviewen. Voordat we de interviews konden uitvoeren hebben we samen de interview vragen opgesteld. Als onderzoeksvraag hebben we genomen: Hoe denkt de gebruiker over klassieke muziek en klassieke concerten en hoe komt dat?</p>
 
-        <p>Daarna heb ik gelijk mijn eerste interview gehad. Hierbij heb ik de interview vragen bijgehouden. Voor elke interview zal ik het gesprek opnemen. Ik heb geprobeerd om dieper op een aantal vragen in te gaan om meer over het onderwerp te weten te komen. De resultaten van de interview heb ik daarna opgeschreven om te gaan vergelijken met de andere reviews. Die dag heb ik ook nog twee andere interviews gehad.</p>
+        <p>Daarna heb ik gelijk mijn eerste interview gehad. Hierbij heb ik de interview vragen bijgehouden. Voor elke interview zal ik het gesprek opnemen. Ik heb geprobeerd om dieper op een aantal vragen in te gaan om meer over het onderwerp te weten te komen. Bijvoorbeeld bij het tweede interview ging ik dieper op in wanneer hij klassieke muziek luisterde. Hij gaf aan dat het hielp met concentreren. Daarna vroeg ik of hij het dus luisterde wanneer hij graaf wilde ontspannen. Daarop kreeg ik nuttige informatie dat hij het gebruikt om concentratie te houden en helpt om op één ding te focussen. Ook heb ik bij bijvoorbeeld het eerste interview een vraag duidelijker uitgelegd. De vraag luidde: wat voor rol speelt muziek in je leven? Dit vond hij heel lastig om te beantwoorden. Ik vroeg daarna wanneer luister je het? Als antwoord gaf hij daarop heel vaak. Hij luistert het in de bus, de trein, wanneer ik de hond uitlaat. Dit gaf mij als antwoord dat muziek een heel belangrijke rol in zijn leven speelt. De resultaten van de interview heb ik daarna opgeschreven om te gaan vergelijken met de andere reviews. Die dag heb ik ook nog twee andere interviews gehad.</p>
 
         <audio controls>
           <source src="../interviewDuncan1.WAV" type="audio/wav">
@@ -101,13 +101,6 @@
           Your browser does not support the audio element.
         </audio>
 
-        <div class="titelreflectie">
-            <span>
-                <h3>REFLECTIE</h3>
-            </span>
-        </div>
-
-        <p>Ik vind interviewen een hele goede gebruikersonderzoek. Je kan hierdoor duidelijke informatie krijgen en op nieuwe ideeën komen. Ook kan je informatie krijgen die je helemaal niet had verwacht. Ik vond het soms lastig om door te vragen bij het interviewen. Ik wist op dat moment niet wat ik moest vragen om meer informatie te krijgen. Bij de laatste persoon die ik ging interviewen ging het al wel wat makkelijker. Verder heb ik bij alle drie de interviews goede informatie gekregen. Dit helpt heel erg om de doelgroep analyse te maken en uiteindelijk concepten te verzinnen. </p>
         </div>
 
     </div>

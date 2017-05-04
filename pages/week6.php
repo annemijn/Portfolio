@@ -70,23 +70,22 @@
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week5.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week5.php" rel="next">Conceptweek 5</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="sprint1.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="sprint1.php" rel="prev">SCO sprint 1</a></div>
     
-                     <div class="titelinleiding">
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>Deze week gaan we onze twee concepten laten zien aan de opdrachtgever in Arnhem. We gaan de presentatie voorbereiden en de concepten beter uitwerken.</p>
         </div>
-                 <div class="titeluitleg">
+
+        <p>Het was voor mij een leerzame week. De conceptpresentatie was erg nuttig en het voelde goed dat ik de taak op me nam om te presenteren. Het ging niet vlekkeloos, maar het ging ook niet slecht. Ik merk dat ik me er steeds zekerder bij voel. Ik laat de gedachte dat er zoveel mensen aanwezig zijn achter me en probeer ik zo duidelijk mogelijk mijn verhaal te vertellen. Door rustig te blijven en je tijd te nemen merk ik dat het bij mij goed gaat. Ik hoorde van andere groepsleden dat ze het goed vonden gaan, dus dat was ook een zelfverzekerdheid boost. Deze week nam ik de taak op me om de scrumboard in te richten en om aan iedereen uit te leggen hoe het werkt. Een aantal waren er al bekend mee, maar de meeste niet. Ik hoorde van ze dat ze het nu beter begrepen met mijn uitleg. Verder heb ik een duidelijke scrumboard gemaakt die we goed kunnen gebruiken bij elke sprint. </p><br>
+
+        <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
             </span>
             </div>
             
     	<div class="projecttext">
-        <p>Maandag zijn we verder gegaan met de taken die we vorige week hadden verdeeld. We lieten aan elkaar zien wat we al hadden gemaakt. Ik liet de logo zien die ik had gemaakt en daarbij kreeg ik nog feedback puntjes. Dit heb ik toegepast en uiteindelijk is dit de logo geworden:</p>
+        <p>Deze week gaan we onze twee concepten laten zien aan de opdrachtgever in Arnhem. We gaan de presentatie voorbereiden en de concepten beter uitwerken. Maandag zijn we verder gegaan met de taken die we vorige week hadden verdeeld. We lieten aan elkaar zien wat we al hadden gemaakt. Ik liet de logo zien die ik had gemaakt en daarbij kreeg ik nog feedback puntjes. Dit heb ik toegepast en uiteindelijk is dit de logo geworden:</p>
         
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-item">
@@ -113,14 +112,6 @@
         <p>Nadat de user stories waren gemaakt, zijn we de taken gaan verzinnen voor deze sprint. De taken die we vandaag wilden doen waren een enquête maken en de mediastrategie uitwerken. We wilden graag een enquête rond sturen op Facebook voor onderzoek. Zo kunnen we in de volgende presentatie aantonen dat de jongeren dit concept aanspreken. We hebben ook de media strategie gemaakt. De resultaten kan je <a href="media.php">hier</a> zien. 
         </p>
 
-
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-        </div>
-
-        <p>Het was voor mij een leerzame week. De conceptpresentatie was erg nuttig en het voelde goed dat ik de taak op me nam om te presenteren. Het ging niet vlekkeloos, maar het ging ook niet slecht. Ik merk dat ik me er steeds zekerder bij voel. Ik laat de gedachte dat er zoveel mensen aanwezig zijn achter me en probeer ik zo duidelijk mogelijk mijn verhaal te vertellen. Door rustig te blijven en je tijd te nemen merk ik dat het bij mij goed gaat. Ik hoorde van andere groepsleden dat ze het goed vonden gaan, dus dat was ook een zelfverzekerdheid boost. Deze week nam ik de taak op me om de scrumboard in te richten en om aan iedereen uit te leggen hoe het werkt. Een aantal waren er al bekend mee, maar de meeste niet. Ik hoorde van ze dat ze het nu beter begrepen met mijn uitleg. Verder heb ik een duidelijke scrumboard gemaakt die we goed kunnen gebruiken bij elke sprint. </p><br>
         </div>
     </div>
 
