@@ -256,7 +256,20 @@
                         </canvas>
                  </a>
            
-                    
+                 <a class="list-big-block-a hexagon sco " href="pages/ux.php">
+                        <span class="list-big-block-hover">
+                            <h3>What the heck is UX?</h3>
+                            <div class="list-big-block-excerpt">
+                            Met deze workshop kregen we uitleg over User Experience.        
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/ux.png" />
+                        </canvas>
+                 </a>
+                              
                         
                 <div class="clearboth"></div>
                 </div>                     
