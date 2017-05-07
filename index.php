@@ -205,11 +205,11 @@
                 </div>                        
 
            <div class="list-big-block-row-b" style="top: -134px;">
-                <a class="list-big-block-b hexagon sco " href="pages/sprint2.php">
+                <a class="list-big-block-b hexagon sco " href="pages/sprint1.php">
                         <span class="list-big-block-hover">
-                            <h3>SCO Sprint 2</h3>
+                            <h3>SCO Sprint 1</h3>
                             <div class="list-big-block-excerpt">
-                            In deze sprint gaan we het concept verder uitwerken door het maken van prototypes en mediamiddelen.                       
+                            In deze sprint gaan we verder met onze gekozen concept.                        
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
@@ -334,31 +334,31 @@
                         </canvas>
                  </a>
            
-                 <a class="list-big-block-a hexagon uxu " href="pages/ux.php">
+                 <a class="list-big-block-a hexagon dev " href="pages/framework.php">
                         <span class="list-big-block-hover">
-                            <h3>What the heck is UX?</h3>
+                            <h3>Zelfgeschreven framework</h3>
                             <div class="list-big-block-excerpt">
-                            Met deze workshop kregen we uitleg over User Experience.        
+                            Met deze workshop gingen we een eigen framework maken.          
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/ux.png" />
+                        src="images/framework.png" />
                         </canvas>
                  </a>
                               
-                    <a class="list-big-block-a hexagon uxu " href="pages/bordspel.php">
+                    <a class="list-big-block-a hexagon uxu " href="pages/prototype.php">
                         <span class="list-big-block-hover">
-                            <h3>Prototype: bordspel</h3>
+                            <h3>Prototype: App</h3>
                             <div class="list-big-block-excerpt">
-                                Met de workshop prototyping zijn we bezig geweest met interaction design.       
+                             Voor UX zijn we een aantal prototypes gaan maken voor ons concept. Ik maakte hiervoor een app.      
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/bordspel.png" />
+                        src="images/prototype.png" />
                         </canvas>
                  </a>     
                 <div class="clearboth"></div>
