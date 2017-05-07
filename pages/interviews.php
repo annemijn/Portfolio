@@ -66,7 +66,7 @@
     </div>
     <div class="wrapperproject">
         <div style="display: none;" class="single-post-arrows single-prev-post"><span><a class="single-prev-post-a"></a></span></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="forums.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="forums.php" rel="prev">Forums</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="enquete.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="enquete.php" rel="prev">Enquête onderzoek</a></div>
         <div class="titelreflectie">
             <span>
                 <h3>REFLECTIE</h3>

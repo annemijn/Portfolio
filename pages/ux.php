@@ -67,7 +67,7 @@
             <h1>What the heck is UX?</h1>
     </div>
     <div class="wrapperproject">
-    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="interviews.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="interviews.php" rel="next">interviews</a></div>
+    <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="enquete.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="enquete.php" rel="next">Enquête onderzoek</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="bordspel.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="bordspel.php" rel="prev">Prototype: Bordspel</a></div>
 
         <div class="titelreflectie">
