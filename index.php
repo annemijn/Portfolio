@@ -301,7 +301,7 @@
                         </canvas>
                     </a>
 
-                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
+                <a class="list-big-block-b hexagon dev " href="pages/app.php">
                         <span class="list-big-block-hover">
                             <h3>Get your app together</h3>
                             <div class="list-big-block-excerpt">
