@@ -303,15 +303,15 @@
 
                 <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
                         <span class="list-big-block-hover">
-                            <h3>Hackathon</h3>
+                            <h3>Get your app together</h3>
                             <div class="list-big-block-excerpt">
-                            Ik deed mee aan de Hackathon waarbij we een datavisualisatie gingen maken voor We Are Data.                      
+                            Voor het vak Dev gingen we met het groepje een prototype bedenken voor het concept.                 
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/ht.png" />
+                        src="images/app.png" />
                         </canvas>
                     </a>                 
        </div>
