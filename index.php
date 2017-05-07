@@ -205,6 +205,20 @@
                 </div>                        
 
            <div class="list-big-block-row-b" style="top: -134px;">
+                <a class="list-big-block-b hexagon uxu " href="pages/enquete.php">
+                        <span class="list-big-block-hover">
+                            <h3>Enquête onderzoek</h3>
+                            <div class="list-big-block-excerpt">
+                            Voor het concept hebben we een enquête rondgestuurd bij onze doelgroep.                      
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/enquete2.png" />
+                        </canvas>
+                    </a>
+
                 <a class="list-big-block-b hexagon sco " href="pages/sprint1.php">
                         <span class="list-big-block-hover">
                             <h3>SCO Sprint 1</h3>
@@ -218,8 +232,17 @@
                         src="images/persona.png" />
                         </canvas>
                     </a>
+         
+                 
 
-                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
+
+                 
+                    <div class="clearboth"></div>
+                    </div>    
+
+
+            <div class="list-big-block-row-a" style="top: -134px;">
+                <a class="list-big-block-a hexagon dev " href="pages/hackathon.php">
                         <span class="list-big-block-hover">
                             <h3>Hackathon</h3>
                             <div class="list-big-block-excerpt">
@@ -232,16 +255,6 @@
                         src="images/ht.png" />
                         </canvas>
                     </a>
-         
-                 
-
-
-                 
-                    <div class="clearboth"></div>
-                    </div>    
-
-
-            <div class="list-big-block-row-a" style="top: -134px;">
                 <a class="list-big-block-a hexagon sco " href="pages/media.php">
                         <span class="list-big-block-hover">
                             <h3>Media- en contenstrategie</h3>
@@ -269,8 +282,12 @@
                         src="images/ux.png" />
                         </canvas>
                  </a>
-                              
-                                    <a class="list-big-block-a hexagon uxu " href="pages/bordspel.php">
+                                 
+                <div class="clearboth"></div>
+                </div>    
+
+            <div class="list-big-block-row-b" style="top: -202px;">
+            <a class="list-big-block-b hexagon uxu " href="pages/bordspel.php">
                         <span class="list-big-block-hover">
                             <h3>Prototype: bordspel</h3>
                             <div class="list-big-block-excerpt">
@@ -282,11 +299,7 @@
                         <img id="list-big-img" class="list-big-img" 
                         src="images/bordspel.png" />
                         </canvas>
-                 </a>     
-                <div class="clearboth"></div>
-                </div>    
-
-            <div class="list-big-block-row-b" style="top: -202px;">
+                 </a>  
                 <a class="list-big-block-b hexagon uxu " href="pages/website.php">
                         <span class="list-big-block-hover">
                             <h3>Prototype: Website</h3>
@@ -299,9 +312,14 @@
                         <img id="list-big-img" class="list-big-img" 
                         src="images/website.png" />
                         </canvas>
-                    </a>
+                    </a>             
+                    
+                    <div class="clearboth"></div>
+                    </div>     
 
-                <a class="list-big-block-b hexagon dev " href="pages/app.php">
+
+            <div class="list-big-block-row-a" style="top: -202px;">
+                <a class="list-big-block-a hexagon dev " href="pages/app.php">
                         <span class="list-big-block-hover">
                             <h3>Get your app together</h3>
                             <div class="list-big-block-excerpt">
@@ -313,13 +331,7 @@
                         <img id="list-big-img" class="list-big-img" 
                         src="images/app.png" />
                         </canvas>
-                    </a>              
-                    
-                    <div class="clearboth"></div>
-                    </div>     
-
-
-            <div class="list-big-block-row-a" style="top: -202px;">
+                    </a> 
                 <a class="list-big-block-a hexagon scrum " href="pages/scrumsprint1.php">
                         <span class="list-big-block-hover">
                             <h3>SCRUM sprint 1</h3>
@@ -347,8 +359,12 @@
                         src="images/framework.png" />
                         </canvas>
                  </a>
-                              
-                    <a class="list-big-block-a hexagon uxu " href="pages/prototype.php">
+                                 
+                <div class="clearboth"></div>
+                </div> 
+
+            <div class="list-big-block-row-b" style="top: -270px;">
+                    <a class="list-big-block-b hexagon uxu " href="pages/prototype.php">
                         <span class="list-big-block-hover">
                             <h3>Prototype: App</h3>
                             <div class="list-big-block-excerpt">
@@ -360,9 +376,10 @@
                         <img id="list-big-img" class="list-big-img" 
                         src="images/prototype.png" />
                         </canvas>
-                 </a>     
+                 </a>  
+
                 <div class="clearboth"></div>
-                </div> 
+                 </div>
         
     </div>
 </div> 
