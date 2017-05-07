@@ -69,16 +69,15 @@
     <div class="wrapperproject">
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="GIT.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="`GIT.php" rel="next">Git Repository</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="media.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="media.php" rel="prev">media-en contenstrategie</a></div>
-    
-                     <div class="titelinleiding">
+
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>Fontys had een evenement georganiseerd genaamd Hackathon. Hierbij ga je 24 uur aan een opdracht werken. Wij hadden als opdracht om een datavisualisatie te maken voor de MirrorRoom van We Are Data.</p>
         </div>
+
+        <p>Ik vond het interessant om een keer een hackathon mee te maken. Ik vond het heel leuk om nieuwe mensen te leren kennen. Verder deden er ook internationale studenten mee. Aan de ene kant vond ik dit leuk om mee te maken, maar aan de andere kant was het heel lastig om met hun te communiceren. Per groep was de verhouding ook niet gelijk tussen internationale en Fontys studenten. Hierdoor ging je al gauw in het Nederlands praten. De MirrorRoom vond ik erg interessant om mee te maken. Zelf had ik al met de eyetracker voor de MirrorRoom in semester 3 moeten werken. Het was erg vet om dit in het echt te zien. Ook heb ik geleerd op welke manieren je een datavisualisatie kan maken. Ik vond het heel fijn dat iedereen enthousiast was over mijn datavisualisatie. Hier was ik trots op.
+        </p><br>    
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -95,12 +94,12 @@
             </dt></dl>
         </div>
 
-        <p>De Hackathon werd gehouden in de Effenaar in Eindhoven. Om 13.00 uur begon de kick-off. Daarbij kregen we onze opdracht te horen en in welke groepje we zaten. Omdat niet iedereen was opkomen dagen, ben ik bij een ander groepje gaan zitten. We zijn als eerste de data gaan uitlezen die we hadden meegekregen. We kregen een CSV en een JSON bestand. Uiteindelijk kwamen we erachter dat er in de JSON bestand een error zat. Hierdoor moesten we op wachten tot we een verbeterede versie kregen. Uiteindelijk kregen we die en gingen we brainstormen welke onderwerpen ons interessant leek om op te filteren. We vonden het interessant om ons te richten op het geslacht. Bijvoorbeeld hoeveel vrouwen er vergeleken met mannen de MirrorRoom bezochten. De onderwerpen die ons interessant leken waren het verschil tussen mannen en vrouwen of ze hun data gingen publiceren, wat hun grootste angst was, de locatie en gewicht.</p>
+        <p>Fontys had een evenement georganiseerd genaamd Hackathon. Hierbij ga je 24 uur aan een opdracht werken. Wij hadden als opdracht om een datavisualisatie te maken voor de MirrorRoom van We Are Data. De Hackathon werd gehouden in de Effenaar in Eindhoven. Om 13.00 uur begon de kick-off. Daarbij kregen we onze opdracht te horen en in welke groepje we zaten. Omdat niet iedereen was opkomen dagen, ben ik bij een ander groepje gaan zitten. We zijn als eerste de data gaan uitlezen die we hadden meegekregen. We kregen een CSV en een JSON bestand. Uiteindelijk kwamen we erachter dat er in de JSON bestand een error zat. Hierdoor moesten we op wachten tot we een verbeterede versie kregen. Uiteindelijk kregen we die en gingen we brainstormen welke onderwerpen ons interessant leek om op te filteren. We vonden het interessant om ons te richten op het geslacht. Bijvoorbeeld hoeveel vrouwen er vergeleken met mannen de MirrorRoom bezochten. De onderwerpen die ons interessant leken waren het verschil tussen mannen en vrouwen of ze hun data gingen publiceren, wat hun grootste angst was, de locatie en gewicht.</p>
 
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/hackathon2.jpg"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/hackathon2.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
@@ -110,7 +109,7 @@
         <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
             <dt class="gallery-icon landscape">
 
-        <img src="../images/hackathon.jpg"class="attachment-thumbnail" height="548" width="958">
+        <img src="../images/dv.png"class="attachment-thumbnail" height="548" width="958">
             </dt></dl>
         </div>
 
@@ -136,15 +135,6 @@
             </dt></dl>
         </div>
 
-
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-        </div>
-
-        <p>Ik vond het interessant om een keer een hackathon mee te maken. Ik vond het heel leuk om nieuwe mensen te leren kennen. Verder deden er ook internationale studenten mee. Aan de ene kant vond ik dit leuk om mee te maken, maar aan de andere kant was het heel lastig om met hun te communiceren. Per groep was de verhouding ook niet gelijk tussen internationale en Fontys studenten. Hierdoor ging je al gauw in het Nederlands praten. De MirrorRoom vond ik erg interessant om mee te maken. Zelf had ik al met de eyetracker voor de MirrorRoom in semester 3 moeten werken. Het was erg vet om dit in het echt te zien. Ook heb ik geleerd op welke manieren je een datavisualisatie kan maken. Ik vond het heel fijn dat iedereen enthousiast was over mijn datavisualisatie. Hier was ik trots op.
-</p><br>
         </div>
     </div>
 

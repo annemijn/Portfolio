@@ -70,15 +70,15 @@
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week2.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week2.php" rel="next">Conceptweek 2</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week4.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week4.php" rel="prev">Conceptweek 4</a></div>
     
-                     <div class="titelinleiding">
+
+        <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
-            </div>
-            
-    	<div class="projecttext">
-        <p>In de derde week van de conceptweken gaat het over de thema doelgroep. </p>
         </div>
+
+        <p>Het was erg leerzaam om me meer te verdiepen in de doelgroep. Ik kwam namelijk op informatie die ik anders nooit had gekregen. Ook was het leerzaam om te gaan interviewen. Ik merk aan mezelf dat ik het vaak nog lastig vind bij het doorvragen. Toch kreeg ik bruikbare informatie die wij als groep goed konden gebruiken. Ik vond het wel lastig om van deze doelgroep analyse concepten te verzinnen. De grootste deel van de informatie die we kregen hadden we al een concept van gemaakt. Gelukkig had ik van mijn geïnterviewde personen wel informatie die inspiratie gaf voor een concept. Dit konden we goed gebruiken.</p><br>
+        
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -86,7 +86,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>Maandag begonnen we met de workshop interviewen van UXU. Dit kan je <a href="interviews.php">hier</a> lezen. Als opdracht moesten we individueel drie mensen van onze doelgroep interviewen. We hadden op die dag afgesproken om dit voor woensdag te doen. Met de resultaten van de interviews kunnen we namelijk concepten verzinnen rond de thema doelgroep.</p>
+        <p>In de derde week van de conceptweken gaat het over de thema doelgroep. Maandag begonnen we met de workshop interviewen van UXU. Dit kan je <a href="interviews.php">hier</a> lezen. Als opdracht moesten we individueel drie mensen van onze doelgroep interviewen. We hadden op die dag afgesproken om dit voor woensdag te doen. Met de resultaten van de interviews kunnen we namelijk concepten verzinnen rond de thema doelgroep.</p>
         
         <p>Dinsdag hebben we consult uren gehad. Hierbij hebben drie leraren naar onze concepten van week 2 gekeken. Ik had de concepten laten zien en uitgelegd dat we een aantal concepten van week 1 hebben gecombineerd met een nieuwe technologie. Hier waren ze enthousiast over. Voor volgende week wilden ze dat deze concepten worden uitgeprint met visual, storyline en payoff. </p>
 
@@ -108,13 +108,6 @@
 
         <p>Als laatst hebben we deze concepten ingeleverd en zullen we volgende week feedback krijgen over de concepten.</p>
 
-        <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-        </div>
-
-        <p>Het was erg leerzaam om me meer te verdiepen in de doelgroep. Ik kwam namelijk op informatie die ik anders nooit had gekregen. Ook was het leerzaam om te gaan interviewen. Ik merk aan mezelf dat ik het vaak nog lastig vind bij het doorvragen. Toch kreeg ik bruikbare informatie die wij als groep goed konden gebruiken. Ik vond het wel lastig om van deze doelgroep analyse concepten te verzinnen. De grootste deel van de informatie die we kregen hadden we al een concept van gemaakt. Gelukkig had ik van mijn geïnterviewde personen wel informatie die inspiratie gaf voor een concept. Dit konden we goed gebruiken.</p><br>
         </div>
     </div>
 

@@ -63,7 +63,7 @@
 
 
 
-    <div class="project-title-video">
+    <div class="project-title-heuristic">
             <h1>What the heck is UX?</h1>
     </div>
     <div class="wrapperproject">

@@ -62,13 +62,13 @@
 
     <div class="page-title">
             <h1>PORTFOLIO</h1>
-            <h6>Hier zie je alle vakken met workshops die ik dit semester heb gemaakt.</h6>
+            <h6>Hier zie je wat ik bij elke vak in semester 4 heb gedaan.</h6>
     </div>
     
     <div class="portfolio-list">
     <div class="portfolio-categories">
             <span id="all" class="selected"><b>All</b></span>
-            <span id="uxu" class="primary-cats"><b>UXU</b></span>                                    
+            <span id="uxu" class="primary-cats"><b>UX</b></span>                                    
             <span id="sco" class="primary-cats"><b>SCO</b></span>                                    
             <span id="dev" class="primary-cats"><b>DEV</b></span> 
              <span id="scrum" class="primary-cats"><b>SCRUM</b></span>                                                          
@@ -83,7 +83,7 @@
                             <div class="list-big-block-excerpt">
 							  In de eerste week beginnen we met het maken van concepten vanuit het gebied trend/markt. 
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -98,7 +98,7 @@
                             <div class="list-big-block-excerpt">
                             In de tweede week maken we concepten vanuit het gebied technologie.                         
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -113,7 +113,7 @@
                             <div class="list-big-block-excerpt">
                             Voor UXU heb ik een aantal interviews gedaan om meer over de doelgroep te weten te komen.                            
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
@@ -131,11 +131,11 @@
                             In de derde week verdiepen we ons meer in de doelgroep.
                            
                              </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img"
-                        src="images/essence.png" />
+                        src="images/closer.png" />
                         </canvas>
        			</a>
              
@@ -145,11 +145,11 @@
                             <div class="list-big-block-excerpt">
                             In de vierde week kiezen we twee concepten uit die we verder gaan uitwerken.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/concept1.png" />
+                        src="images/visualisatieconcept2.png" />
                         </canvas>
                  </a>
                          
@@ -157,46 +157,47 @@
                  </div>                            
      
             <div class="list-big-block-row-a" style="top: -67px;">
-        		<a class="list-big-block-a hexagon sco " href="pages/GIT.php">
+                <a class="list-big-block-a hexagon sco " href="pages/week5.php">
                         <span class="list-big-block-hover">
                             <h3>Conceptweek 5</h3>
                             <div class="list-big-block-excerpt">
-                            Bij deze workshop heb ik gewerkt met GIT en heb ik onderzocht wat ik allemaal kan met GIT.                           
+                            In de vijfde week zijn we ons concept beter gaan uitwerken voor de presentatie van volgende week.           
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/moodboardrust.png" />
+                        </canvas>
+                 </a>
+           
+                       
+                 <a class="list-big-block-a hexagon dev " href="pages/GIT.php">
+                        <span class="list-big-block-hover">
+                            <h3>Git repository</h3>
+                            <div class="list-big-block-excerpt">
+                            Met DEV kregen we een workshop over Git.
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
                         src="images/git.png" />
                         </canvas>
                  </a>
-           
-                       
-                 <a class="list-big-block-a hexagon sco " href="pages/concept2.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCO sprint 1</h3>
-                            <div class="list-big-block-excerpt">                        
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/concept2.png" />
-                        </canvas>
-                 </a>
          
                         
-                    <a class="list-big-block-a hexagon uxu " href="pages/interviews.php">
+                    <a class="list-big-block-a hexagon sco " href="pages/week6.php">
                         <span class="list-big-block-hover">
-                            <h3>Gebruikersonderzoek - Interviews</h3>
+                            <h3>Week 6 Conceptpitch</h3>
                             <div class="list-big-block-excerpt">
-                            Voor de proftaak heb ik chauffeurs geinterviewd.                          
+                            In de zesde week gingen we onze twee concepten presenteren aan onze opdrachtgever.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/interviews.png" />
+                        src="images/week6-2.png" />
                         </canvas>
                     </a>
                         
@@ -204,371 +205,115 @@
                 </div>                        
 
            <div class="list-big-block-row-b" style="top: -134px;">
-           		<a class="list-big-block-b hexagon sco " href="pages/concept3.php">
+                <a class="list-big-block-b hexagon sco " href="pages/sprint1.php">
                         <span class="list-big-block-hover">
-                            <h3>SCO sprint 2</h3>
+                            <h3>SCO Sprint 1</h3>
                             <div class="list-big-block-excerpt">
-                                                   
+                            In deze sprint gaan we verder met onze gekozen concept.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/concept3.png" />
-                        </canvas>
-                    </a>
-                       <a class="list-big-block-b hexagon sco " href="pages/concept4.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCO sprint 3</h3>
-                            <div class="list-big-block-excerpt">                        
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/concept4.png" />
-                        </canvas>
-                 </a>
-                                  
-                    <div class="clearboth"></div>
-                    </div>                            
-
-               <div class="list-big-block-row-a" style="top: -134px;">
-               		<a class="list-big-block-a hexagon sco " href="pages/concept5.php">
-                        <span class="list-big-block-hover">
-                            <h3> SCO sprint 4</h3>
-                            <div class="list-big-block-excerpt">
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                       src="images/concept5.png" />
+                        src="images/persona.png" />
                         </canvas>
                     </a>
 
-             
-  
-                    <a class="list-big-block-a hexagon sco " href="pages/strategie.php">
+                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
                         <span class="list-big-block-hover">
-                            <h3>Communicatiestrategie</h3>
+                            <h3>Hackathon</h3>
                             <div class="list-big-block-excerpt">
+                            Ik deed mee aan de Hackathon waarbij we een datavisualisatie gingen maken voor We Are Data.                      
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/strategieconcepting.png" />
+                        src="images/ht.png" />
                         </canvas>
                     </a>
-    
          
                  
-                    <a class="list-big-block-a hexagon dev " href="pages/framework.php">
-                        <span class="list-big-block-hover">
-                            <h3>Zelfgeschreven framework</h3>
-                            <div class="list-big-block-excerpt">  
-							 Met deze workshop heb ik een framework gemaakt met een library die ik heb uitgekozen.                
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/framework.png" />
-                        </canvas>
-                    </a>
-                       
-                                
-                    <div class="clearboth"></div>
-                    </div>                            
-                                   <div class="list-big-block-row-b" style="top: -201px;">
-           		<a class="list-big-block-b hexagon sco " href="pages/mcstrategie.php">
-                        <span class="list-big-block-hover">
-                            <h3> Media-en contenstrategie </h3>
-                            <div class="list-big-block-excerpt">  
-                            Hier heb ik een customer journey voor het concept gemaakt.                  
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/mediacontentstrategie.png" />
-                        </canvas>
-                    </a> 
-                    
-                               		<a class="list-big-block-b hexagon uxu " href="pages/forums.php">
-                        <span class="list-big-block-hover">
-                            <h3> Gebruikersonderzoek - Forums</h3>
-                            <div class="list-big-block-excerpt">   
-                            Via forums heb ik een gebruikersonderzoek gedaan. 
-                                               
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/forums.png" />
-                        </canvas>
-                    </a>
-                    <div class="clearboth"></div>
-                    </div>  
-                    
-                                   <div class="list-big-block-row-a" style="top: -201px;">
-               		<a class="list-big-block-a hexagon dev " href="pages/SEO.php">
-                        <span class="list-big-block-hover">
-                            <h3>SEO </h3>
-                            <div class="list-big-block-excerpt">
-                            We hebben een wordpress website gemaakt en dit doormiddel van SEO bezoekers aantrekken.   
-							 Wij hebben onze website laten testen aan onze doelgroep. 
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                       src="images/seo.png" />
-                        </canvas>
-                    </a>
 
-             
-  
-                    <a class="list-big-block-a hexagon uxu " href="pages/posts.php">
+
+                 
+                    <div class="clearboth"></div>
+                    </div>    
+
+
+            <div class="list-big-block-row-a" style="top: -134px;">
+                <a class="list-big-block-a hexagon sco " href="pages/media.php">
                         <span class="list-big-block-hover">
-                            <h3> Gebruikersonderzoek - Facebook posts</h3>
+                            <h3>Media- en contenstrategie</h3>
                             <div class="list-big-block-excerpt">
-							 Via Facebook posts heb ik een gebruikersonderzoek gedaan. 
+                            Voor ons concept hebben we de media- en contentstrategie gemaakt met behulp van een customer journey.         
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/posts.png" />
+                        src="images/media.png" />
                         </canvas>
-                    </a>
-                    
-                                        <a class="list-big-block-a hexagon uxu " href="pages/bordspel.php">
+                 </a>
+           
+                 <a class="list-big-block-a hexagon uxu " href="pages/ux.php">
                         <span class="list-big-block-hover">
-                            <h3>Prototyping - bordspel</h3>
+                            <h3>What the heck is UX?</h3>
                             <div class="list-big-block-excerpt">
-							Met deze workshop ben ik aan de gang gegaan met interaction design.
+                            Met deze workshop kregen we uitleg over User Experience.        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/ux.png" />
+                        </canvas>
+                 </a>
+                              
+                                    <a class="list-big-block-a hexagon uxu " href="pages/bordspel.php">
+                        <span class="list-big-block-hover">
+                            <h3>Prototype: bordspel</h3>
+                            <div class="list-big-block-excerpt">
+                                Met de workshop prototyping zijn we bezig geweest met interaction design.       
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
                         src="images/bordspel.png" />
                         </canvas>
-                    </a>
-        
-                                
-                    <div class="clearboth"></div>
-                    </div> 
-                    
-                                                       <div class="list-big-block-row-b" style="top: -268px;">
-           		<a class="list-big-block-b hexagon dev " href="pages/technischetest.php">
-                        <span class="list-big-block-hover">
-                            <h3>Prototype testen</h3>
-                            <div class="list-big-block-excerpt">  
-                            Voor onze prototype hebben we een technische test uigevoerd.                     
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/technischetest.png" />
-                        </canvas>
-                    </a> 
-                    
-                               		<a class="list-big-block-b hexagon uxu " href="pages/video.php">
-                        <span class="list-big-block-hover">
-                            <h3> Prototyping - viral video</h3>
-                            <div class="list-big-block-excerpt">
-                            Bij onze eerste concept hebben we een viral video gemaakt.                          
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/video.png" />
-                        </canvas>
-                    </a>
-                    <div class="clearboth"></div>
-                    </div> 
-                    
-                                                       <div class="list-big-block-row-a" style="top: -268px;">
-               		<a class="list-big-block-a hexagon scrum " href="pages/sprint0.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCRUM - sprint 0 </h3>
-                            <div class="list-big-block-excerpt">
+                 </a>     
+                <div class="clearboth"></div>
+                </div>    
 
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                       src="images/sprint0.png" />
-                        </canvas>
-                    </a>
-
-             
-  
-                    <a class="list-big-block-a hexagon scrum " href="pages/sprint1.php">
+                           <div class="list-big-block-row-b" style="top: -202px;">
+                <a class="list-big-block-b hexagon uxu " href="pages/website.php">
                         <span class="list-big-block-hover">
-                            <h3>SCRUM - sprint 1</h3>
+                            <h3>Prototype: Website</h3>
                             <div class="list-big-block-excerpt">
-							 
+                            Voor de website van het concept heb ik een prototype gemaakt.                        
                             </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/sprint1.png" />
-                        </canvas>
-                    </a>
-                    
-                                        <a class="list-big-block-a hexagon scrum " href="pages/sprint2.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCRUM - sprint 2</h3>
-                            <div class="list-big-block-excerpt">
-
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/sprint2.png" />
-                        </canvas>
-                    </a>
-        
-                                
-                    <div class="clearboth"></div>
-                    </div>   
-                    
-                                                                         <div class="list-big-block-row-b" style="top: -335px;">
-           		<a class="list-big-block-b hexagon scrum " href="pages/sprint3.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCRUM - sprint 3</h3>
-                            <div class="list-big-block-excerpt">                       
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/sprint3.png" />
-                        </canvas>
-                    </a> 
-                    
-                               		<a class="list-big-block-b hexagon scrum " href="pages/sprint4.php">
-                        <span class="list-big-block-hover">
-                            <h3>SCRUM - sprint 4</h3>
-                            <div class="list-big-block-excerpt">                          
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/sprint4.png" />
-                        </canvas>
-                    </a>
-                    <div class="clearboth"></div>
-                    </div>      
-                    
-                    <div class="list-big-block-row-a" style="top: -335px;">
-               		<a class="list-big-block-a hexagon uxu " href="pages/maquette.php">
-                        <span class="list-big-block-hover">
-                            <h3>prototyping - maquette </h3>
-                            <div class="list-big-block-excerpt">
-                             Bij onze derde concept hebben we een maquette gemaakt.
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                       src="images/maquette.png" />
-                        </canvas>
-                    </a>
-
-             
-  
-                    <a class="list-big-block-a hexagon uxu " href="pages/3d.php">
-                        <span class="list-big-block-hover">
-                            <h3>prototyping - 3d sfeerimpressie</h3>
-                            <div class="list-big-block-excerpt">
-							Bij onze vierde concept heb ik een 3d sfeerimpressie gemaakt.
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/3d.png" />
-                        </canvas>
-                    </a>
-                    
-                                        <a class="list-big-block-a hexagon uxu " href="pages/website.php">
-                        <span class="list-big-block-hover">
-                            <h3>prototyping - website</h3>
-                            <div class="list-big-block-excerpt">
-							Bij onze vierde concept heb ik een website gemaakt. 
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
                         src="images/website.png" />
                         </canvas>
                     </a>
-        
-                                
-                    <div class="clearboth"></div>
-                    </div>  
-                    
-                <div class="list-big-block-row-b" style="top: -403px;">
-           		<a class="list-big-block-b hexagon uxu " href="pages/methods.php">
-                        <span class="list-big-block-hover">
-                            <h3>UX research methods</h3>
-                            <div class="list-big-block-excerpt">    
-                            Hier hebben we verschillende gebruikersonderzoeken geleerd.                 
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/uxmethods.png" />
-                        </canvas>
-                    </a> 
-                    
-                               		<a class="list-big-block-b hexagon uxu " href="pages/heuristic.php">
-                        <span class="list-big-block-hover">
-                            <h3>heuristic evaluation uitvoeren</h3>
-                            <div class="list-big-block-excerpt">                          
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                        src="images/heuristic.png" />
-                        </canvas>
-                    </a>
-                    <div class="clearboth"></div>
-                    </div>  
-                    
-                    <div class="list-big-block-row-a" style="top: -403px;">
-               		<a class="list-big-block-a hexagon sco " href="pages/shortcopy.php">
-                        <span class="list-big-block-hover">
-                            <h3>Executie </h3>
-                            <div class="list-big-block-excerpt">
-                             Voor de verschillende concepten heb ik posters gemaakt.
-                            </div>
-                            <div class="list-big-block-view"><b>View workshop</b></div>
-                        </span>
-                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
-                        <img id="list-big-img" class="list-big-img" 
-                       src="images/shortcopy.png" />
-                        </canvas>
-                    </a>
 
-                 
-                    <div class="clearboth"></div>
-                    </div>                       
+                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
+                        <span class="list-big-block-hover">
+                            <h3>Hackathon</h3>
+                            <div class="list-big-block-excerpt">
+                            Ik deed mee aan de Hackathon waarbij we een datavisualisatie gingen maken voor We Are Data.                      
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/ht.png" />
+                        </canvas>
+                    </a>                 
        </div>
         
     </div>

@@ -100,7 +100,7 @@
 
         <div id="videoproject">
         <video width="100%" controls>
-          <source src="../website.mp4" type="video/mp4" />
+          <source src="../images/website.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
         </div>

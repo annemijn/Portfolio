@@ -68,14 +68,14 @@
      <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="week1.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="week1.php" rel="next">Conceptweek 1</a></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week3.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week3.php" rel="prev">Conceptweek 3</a></div>
     
-                         <div class="titelinleiding">
+                  <div class="titelreflectie">
             <span>
-            <h3>INLEIDING</h3>
+            <h3>REFLECTIE</h3>
             </span>
             </div>
-            <div class="projecttext">
-            <p>In de tweede week van de conceptweken gaat het om het thema technologie. </p>
-            </div>
+<p>Ik merkte dat ik het concepten deze week moeilijker vond dan vorige week. Technologie was namelijk lastig om daarvoor concepten te verzinnen. Ik kwam namelijk vaak uit op ideeën in plaats van concepten. Uiteindelijk hebben we concepten van vorige week gecombineerd met ideeën van deze week. Dit werkte een stuk beter en konden we ook goed de concepten van vorige week verbeteren. De workshop van DEV hielp me wel om meer inspiratie te krijgen. Met deze workshop kreeg ik meer te weten over verschillende technologieën en kon ik in een aantal meer verdiepen die ik nog niet kende.
+    
+</p>
                  <div class="titeluitleg">
             <span>
             <h3>UITLEG</h3>
@@ -83,7 +83,7 @@
             </div>
             
     	<div class="projecttext">
-        <p>We zijn weer begonnen met het maken van 250 ideeën maar hierbij gericht op technologie. Daarbij hebben we apart van elkaar ideeën verzonnen. Ik ging zoeken op internet naar ideeën. Ik ging kijken naar verschillende technieken en gadgets die nu op de markt zijn. Deze heb ik daarna op post its geschreven en op het bord geplakt. We hadden het in een aantal categorieën gedeeld: licht, muziek, drones/VR etc., publiek en overige. </p>
+        <p>In de tweede week van de conceptweken gaat het om het thema technologie. We zijn weer begonnen met het maken van 250 ideeën maar hierbij gericht op technologie. Daarbij hebben we apart van elkaar ideeën verzonnen. Ik ging zoeken op internet naar ideeën. Ik ging kijken naar verschillende technieken en gadgets die nu op de markt zijn. Deze heb ik daarna op post its geschreven en op het bord geplakt. We hadden het in een aantal categorieën gedeeld: licht, muziek, drones/VR etc., publiek en overige. </p>
         <p>
         Daarna zijn we de ideeën gaan clusteren. Deze ideeën hebben we daarna in een top 3 gezet welke we het beste vonden. Deze ideeën hebben we daarna gedocumenteerd.
         </p>
@@ -111,14 +111,6 @@
 
 <p>Daarna hebben we nog twee concepten verzonnen. Dit zullen we volgende week weer laten zien voor feedback.</p><br>
 
-                 <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-            </div>
-<p>
-    
-</p>
         </div>
 
     </div>

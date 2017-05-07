@@ -67,6 +67,15 @@
     <div class="wrapperproject">
     <div style="display: none;" class="single-post-arrows single-prev-post"><span><a class="single-prev-post-a"></a></span></div>
     <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="week2.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="week2.php" rel="prev">Conceptweek 2</a></div>
+
+                         <div class="titelreflectie">
+            <span>
+            <h3>REFLECTIE</h3>
+            </span>
+            </div>
+<p>Met de eerste workshop van SCO heb ik geleerd welke brainstormtechnieken ik goed kan gebruiken voor een opdracht. Ik vond vooral associatie plaatjes het beste voor mij werken. Door een plaatje kan je veel inspiratie op doen. dit had ik niet verwacht. Ik merkte dat het op het begin een beetje moeizaam ging met het verzinnen van ideeën. Dit kwam denk ik omdat wij elkaar allemaal niet kennen. Gelukkig ging er al snel een gezellige sfeer hangen en hadden we ook samen leuke ideeën bedacht.</p>
+
+<p>Doordat we helemaal opnieuw zijn begonnen met het goede advies van onze tutor zijn we een stuk opgeschoten. We hebben 5 globalere concepten verzonnen waar er echt iets mee kan worden gedaan. Ik heb hiermee ook met een verschillende standpunt naar de opdracht gekeken. Zo heb ik niet alleen van het publiek gekeken maar ook van het orkest en vanuit het instrument. Hier kom je dan opeens op veel andere ideeën wat je niet verwacht. Hierdoor heb ik me ook een stuk meer verdiept in de opdracht. Ik ben tevreden met deze concepten.</p>
     
                          <div class="titelinleiding">
             <span>
@@ -137,7 +146,7 @@ Kittenweek is een concept omdat er verschillende ideeën uit voortkomen. Zoals d
 Deze concepten zullen we aan onze tutor voorleggen.<br>
 </p>
 
-                <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-fullwidth">
+                <div id="gallery-3" class="gallery galleryid-2178 gallery-columns-3 gallery-size-thumbnail"><div class="clearboth"></div><dl class=" gallery-item">
             <dt class="gallery-icon landscape">
 
 <img src="../images/scoweek1_2.png"class="attachment-thumbnail" height="548" width="958">
@@ -147,14 +156,6 @@ Deze concepten zullen we aan onze tutor voorleggen.<br>
 <p>Woensdag kregen we van onze tutor feedback over de drie concepten die we hadden verzonnen. Hij vond het leuke ideeën maar het waren niet echt concepten. Ze waren te gericht op het evenement. Ze moesten veel globaler worden gemaakt. Hij raadde ons aan om opnieuw te beginnen en heel veel concepten te verzinnen. We zijn daarna meteen hiermee aan de slag gegaan. We kwamen uit op 5 concepten die allemaal meer globaal zijn neergezet. Daarbij had ik het idee “ontgrijzing” verzonnen. Bij het orkest komen er vaak bezoekers met een oude leeftijd op af. Dit willen wij veranderen door de jongeren uit te nodigen en de vergrijzing terug te dringen. In het dagelijkse leven is er in de stad een sombere sfeer en steeds meer mensen gaan er wonen. Alles ziet er grijs uit. In andere gebieden van Nederland kan het veel kleurrijker zijn. De kleurrijke sfeer willen wij in het evenement terug laten zien.</p>
 
 
-                         <div class="titelreflectie">
-            <span>
-            <h3>REFLECTIE</h3>
-            </span>
-            </div>
-<p>Met de eerste workshop van SCO heb ik geleerd welke brainstormtechnieken ik goed kan gebruiken voor een opdracht. Ik vond vooral associatie plaatjes het beste voor mij werken. Door een plaatje kan je veel inspiratie op doen. dit had ik niet verwacht. Ik merkte dat het op het begin een beetje moeizaam ging met het verzinnen van ideeën. Dit kwam denk ik omdat wij elkaar allemaal niet kennen. Gelukkig ging er al snel een gezellige sfeer hangen en hadden we ook samen leuke ideeën bedacht.</p>
-
-<p>Doordat we helemaal opnieuw zijn begonnen met het goede advies van onze tutor zijn we een stuk opgeschoten. We hebben 5 globalere concepten verzonnen waar er echt iets mee kan worden gedaan. Ik heb hiermee ook met een verschillende standpunt naar de opdracht gekeken. Zo heb ik niet alleen van het publiek gekeken maar ook van het orkest en vanuit het instrument. Hier kom je dan opeens op veel andere ideeën wat je niet verwacht. Hierdoor heb ik me ook een stuk meer verdiept in de opdracht. Ik ben tevreden met deze concepten.</p>
         </div>
 
     </div>
