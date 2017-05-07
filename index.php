@@ -284,7 +284,36 @@
                         </canvas>
                  </a>     
                 <div class="clearboth"></div>
-                </div>                     
+                </div>    
+
+                           <div class="list-big-block-row-b" style="top: -202px;">
+                <a class="list-big-block-b hexagon uxu " href="pages/website.php">
+                        <span class="list-big-block-hover">
+                            <h3>Prototype: Website</h3>
+                            <div class="list-big-block-excerpt">
+                            In deze sprint gaan we verder met onze gekozen concept.                        
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/persona.png" />
+                        </canvas>
+                    </a>
+
+                <a class="list-big-block-b hexagon dev " href="pages/hackathon.php">
+                        <span class="list-big-block-hover">
+                            <h3>Hackathon</h3>
+                            <div class="list-big-block-excerpt">
+                            Ik deed mee aan de Hackathon waarbij we een datavisualisatie gingen maken voor We Are Data.                      
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/ht.png" />
+                        </canvas>
+                    </a>                 
        </div>
         
     </div>
