@@ -197,7 +197,7 @@
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/week6-2.png" />
+                        src="images/week6-3.png" />
                         </canvas>
                     </a>
                         
@@ -205,11 +205,11 @@
                 </div>                        
 
            <div class="list-big-block-row-b" style="top: -134px;">
-                <a class="list-big-block-b hexagon sco " href="pages/sprint1.php">
+                <a class="list-big-block-b hexagon sco " href="pages/sprint2.php">
                         <span class="list-big-block-hover">
-                            <h3>SCO Sprint 1</h3>
+                            <h3>SCO Sprint 2</h3>
                             <div class="list-big-block-excerpt">
-                            In deze sprint gaan we verder met onze gekozen concept.                        
+                            In deze sprint gaan we het concept verder uitwerken door het maken van prototypes en mediamiddelen.                       
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
@@ -320,7 +320,7 @@
 
 
             <div class="list-big-block-row-a" style="top: -202px;">
-                <a class="list-big-block-a hexagon sco " href="pages/scrumsprint1.php">
+                <a class="list-big-block-a hexagon scrum " href="pages/scrumsprint1.php">
                         <span class="list-big-block-hover">
                             <h3>SCRUM sprint 1</h3>
                             <div class="list-big-block-excerpt">
