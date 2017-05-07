@@ -286,7 +286,7 @@
                 <div class="clearboth"></div>
                 </div>    
 
-                           <div class="list-big-block-row-b" style="top: -202px;">
+            <div class="list-big-block-row-b" style="top: -202px;">
                 <a class="list-big-block-b hexagon uxu " href="pages/website.php">
                         <span class="list-big-block-hover">
                             <h3>Prototype: Website</h3>
@@ -313,8 +313,56 @@
                         <img id="list-big-img" class="list-big-img" 
                         src="images/app.png" />
                         </canvas>
-                    </a>                 
-       </div>
+                    </a>              
+                    
+                    <div class="clearboth"></div>
+                    </div>     
+
+
+            <div class="list-big-block-row-a" style="top: -202px;">
+                <a class="list-big-block-a hexagon sco " href="pages/scrumsprint1.php">
+                        <span class="list-big-block-hover">
+                            <h3>SCRUM sprint 1</h3>
+                            <div class="list-big-block-excerpt">
+                            In sprint 1 zijn we begonnen met SCRUM.         
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/scrum.png" />
+                        </canvas>
+                 </a>
+           
+                 <a class="list-big-block-a hexagon uxu " href="pages/ux.php">
+                        <span class="list-big-block-hover">
+                            <h3>What the heck is UX?</h3>
+                            <div class="list-big-block-excerpt">
+                            Met deze workshop kregen we uitleg over User Experience.        
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/ux.png" />
+                        </canvas>
+                 </a>
+                              
+                    <a class="list-big-block-a hexagon uxu " href="pages/bordspel.php">
+                        <span class="list-big-block-hover">
+                            <h3>Prototype: bordspel</h3>
+                            <div class="list-big-block-excerpt">
+                                Met de workshop prototyping zijn we bezig geweest met interaction design.       
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/bordspel.png" />
+                        </canvas>
+                 </a>     
+                <div class="clearboth"></div>
+                </div> 
         
     </div>
 </div> 
