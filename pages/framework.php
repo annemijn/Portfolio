@@ -112,7 +112,7 @@
         <p>“Als gebruiker wil ik makkelijk tickets kunnen kopen zodat ik niet afhaak bij het betalen.”
         Als gebruiker wil ik een overzicht te zien krijgen van de verschillende tickets zodat ik een geschikte ticket kan kopen.”</p>
 
-        <p>Met de vorige librarys die ik al had gemaakt, lukte het nu beter. De methode wist ik nu ook al uit mijn hoofd dus kon ik het makkelijker uitschrijven. Deze framework heb ik op <a href="https://github.com/annemijn/frameworkTicketsysteem">Github</a> gezet zodat je makkelijker de code kan bekijken. Verder heb ik een readme bijgevoegd waarin uitgelegd staat wat voor framework is en welke code je kan veranderen om aanpassingen te doen. Klik <a href="http://i315962.iris.fhict.nl/dev/framework/framework.html">hier</a> om de framework te zien.</p>
+        <p>Met de vorige librarys die ik al had gemaakt, lukte het nu beter. De methode wist ik nu ook al uit mijn hoofd dus kon ik het makkelijker uitschrijven. Deze framework heb ik op <a href="https://github.com/annemijn/frameworkTicketsysteem">Github</a> gezet zodat je makkelijker de code kan bekijken. Verder heb ik een readme bijgevoegd waarin uitgelegd staat wat voor framework is en welke code je kan veranderen om aanpassingen te doen. Klik <a href="http://i315962.iris.fhict.nl/ticketsysteem/framework.html">hier</a> om de framework te zien.</p>
 
         <p>Als eerste heb ik mijn library aangeroepen in index.html:</p>
 
