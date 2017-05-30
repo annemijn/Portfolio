@@ -454,7 +454,7 @@
                         </canvas>
                  </a>  
 
-                    <a class="list-big-block-b hexagon sco " href="pages/scrumsprint2.php">
+                    <a class="list-big-block-b hexagon scrum " href="pages/scrumsprint2.php">
                         <span class="list-big-block-hover">
                             <h3>SCRUM sprint 2</h3>
                             <div class="list-big-block-excerpt">

@@ -69,7 +69,7 @@
     </div>
     <div class="wrapperproject">
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="app.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="app.php" rel="next">Get your app together</a></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="framework.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="framework.php" rel="prev">Zelfgeschreven Framework</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="seo.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="seo.php" rel="prev">SEO</a></div>
 
         <div class="titelreflectie">
             <span>
@@ -77,7 +77,8 @@
             </span>
         </div>
 
-        <p>Ik heb veel geleerd met deze workshop. Ik weet nu hoe ik een library moet maken. Nadat ik een aantal voorbeelden had gezien en zelf hebt geprobeerd snapte ik goed hoe een library werkt. De structuur van een library methode is niet zo moeilijk om te begrijpen. Ook heb je niet veel code nodig om je framework uit te voeren. Dit gaat met de library een stuk sneller. Ik snap nu ook waarom je een framework opslaat in Github. Hierdoor kunnen andere mensen jouw framework gebruiken en ze kan helpen. Met duidelijke documentatie bij het project maakt het voor diegene ook een stuk makkelijker om aanpassingen aan de framework te doen. Zo hoeven ze niet teveel tijd te besteden om de code te snappen. Deze kennis kan ik goed gebruiken voor later als ik met nog meer frameworks aan de slag ga. </p><br>
+        <p>Ik heb veel geleerd met deze workshop. Ik weet nu hoe ik een library moet maken. Nadat ik een aantal voorbeelden had gezien en zelf hebt geprobeerd snapte ik goed hoe een library werkt. De structuur van een library methode is niet zo moeilijk om te begrijpen. Ook heb je niet veel code nodig om je framework uit te voeren. Dit gaat met de library een stuk sneller. Ik snap nu ook waarom je een framework opslaat in Github. Hierdoor kunnen andere mensen jouw framework gebruiken en ze kan helpen. Met duidelijke documentatie bij het project maakt het voor diegene ook een stuk makkelijker om aanpassingen aan de framework te doen. Zo hoeven ze niet teveel tijd te besteden om de code te snappen. Deze kennis kan ik goed gebruiken voor later als ik met nog meer frameworks aan de slag ga. </p>
+        <p>Nadat ik feedback had gekregen ben ik aan de slag gegaan om het framework aanpasbaar te maken. Dit was een heel karwei voor mij. Als eerst wilde ik globale variabeles aan maken waardoor je dus overal de value van de variabele kon aanpassen. Op internet las ik dat dit niet goed was als je dit deed bij een framework. Het zat namelijk zo dat als een gebruiker dezelfde namen heeft voor een andere variabele, de globale variabele de value hiervan zal veranderen. Dit is daarom niet verstandig. Met dit heb ik dus geleerd dat je eigenlijk nooit globale variabeles moet gebruiken als je de code wilt gaan delen. Van de leraar kreeg ik te horen dat je het via parameters de values moet doorgeven.  Ik had me nog nooit echt goed verdiept in parameters. Hiervoor moest ik me gaan verdiepen. Op verschillende websites en tutorials ben ik gaan kijken en leren hoe je parameters gebruikt en hoe je dit buitenaf doet van een functie. Ik kwam eruit dat het beste was om een array te gebruiken met daarin variabeles waarbij je in de parameters de values verandert. Ik ben toen gaan programmeren en ik ben blij dat het me is gelukt. Hier heb ik veel tijd aan besteed. Ook met behulp van de code van de leraar is het me gelukt. Ik snap nu ook dat een framework aanpasbaar moet zijn voor de gebruikers. Ik dacht dat je in de framework de code kon aanpassen, maar dat is niet de bedoeling. Het is juist de bedoeling dat ze van buitenaf dingen kunnen aanpassen. Dit heb ik nu ook geleerd.</p><br>
 
                  <div class="titeluitleg">
             <span>
@@ -208,7 +209,7 @@
         <p>Daarna zal die kijken of de variabele message leeg is. Als dat niet het geval is zal die in de div melding de opgeslagen berichten in de variabele message laten zien:</p>
 
         <code>
-        if(message !== '') //als element niet leeg is<br>
+        if(message !== '') <span>//als element niet leeg is</span><br>
         {<br>
         Element = bericht;<br>
         melding.innerHTML = Element; <span>//zet in de div melding alles wat de Element heeft opgeslagen</span><br>
@@ -226,6 +227,46 @@
         </div>
 
         <p>Ik heb hierbij ook gebruik gemaakt van de debug tool van Chrome. Deze gebruik ik al een tijdje sinds dat ik deze opleiding doe. Hiermee kan je heel gemakkelijk fouten binnen de code vinden in de console. Dit is heel fijn als je vast zit, bijvoorbeeld wat ik hier met deze framework ook vaak heb gehad.  Zo had ik bijvoorbeeld de verkeerde div opgezocht. Hierbij geeft die dan ook aan dat die niet bestaat of niet gevonden kan worden. Met de drop down menu was het een stuk lastiger om de value ervan te lezen. Met de debug tool kon ik goed zien wat er fout was op welke rij van de code. Hierdoor kon ik de fout zien en het oplossen.</p>
+
+        <p>Ik heb daarna feedback gevraagd aan de DEV docent.  Hij vond dat het ticketsysteeom op zich goed in elkaar zat. Het is alleen niet aanpasbaar. Als je bijvoorbeeld via Mojo kaartjes wil bestellen, moet je de code van je library aanpassen, wat weer problemen oplevert op het moment dat jij je code gaat updaten. Zorg dus dat er een mogelijkheid komt om bij het aanroepen met parameters dit soort zaken aan te laten passen door de gebruiker.</p>
+
+        <p>Ik had me nog nooit echt verdiept in parameters. Daarom ben ik eerst onderzoek gaan doen en heb ik tutorials gevolgd. Ik kwam eruit dat het beste was om een array te gebruiken met daarin variabeles waarbij je in de parameters de values verandert. Na eindeloos geprogrammeerd te hebben is het met uiteindelijk gelukt. </p>
+
+        <p>Ik heb een parameter in de functie gezet:</p>
+        
+        <code>var Validate = function (NewSettings) {</code>
+
+        <p>Daarna heb ik een array aangemaakt met alle settings die aangepast kunnen worden vanuit buitenaf:</p>
+
+        <code>
+                var defaultSettings = <span>//maak een array aan waarin alle variabelen zitten die kunnen worden aangepast</span><br>
+         {<br>
+                website : 'http://www.ticketmaster.nl/', <span>//maak variabele aan met link naar de website</span> <br>
+                pattUsername : /^[a-z0-9_-]{3,15}$/, <span>//voor de gebruikersnaam moet het 3-15 karakters zijn met alleen letters, cijfer of symbool“_-”.</span><br>
+                pattPassword : /(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}/ <span>//voor het wachtwoord moet het een nummer, hoofdletter en meer dan zes karakters zijn</span><br>
+         };
+        </code>
+
+        <p>Daarna heb ik een if statement gemaakt om te checken of de parameters van buitenaf zijn ingevuld, als dit is gedaan word de defaultsettings aangepast:</p>
+
+        <code>
+         if (NewSettings !== undefined) <span>//als parameter is ingevuld</span><br>
+         {<br>
+            defaultSettings = NewSettings; <span>//zet de nieuwe settings van de parameter als de defaultsettings</span><br>
+         }
+        </code>    
+
+        <p>Daarna heb ik van buitenaf de functie aangeroept met daarin de parameters die de settings zullen veranderen:</p>
+
+        <code>
+        function valideer()<br>
+        {<br>
+            <span>//roep de library en daarin de functie aan</span><br>
+         Validate({website:'https://www.mojo.nl/', pattUsername : /^[a-z0-9_-]{3,15}$/, pattPassword : /(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}/}); <span>//verander de url van de variabele website, pattern van de gebruikersnaam en van het wachtwoord </span><br>
+        };
+        </code>
+
+        <p>De ticketsysteem is nu aanpasbaar. Je kan de website url aanpassen, pattern van de gebuikersnaam en van het wachtwoord.</p>
 
         </div>
     </div>
