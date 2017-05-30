@@ -68,7 +68,7 @@
     </div>
     <div class="wrapperproject">
     <div class="single-post-arrows single-prev-post"><span><a style="left: -565.2px;" href="app.php" class="single-prev-post-a"></a></span><a style="left: -565.2px; opacity: 0.2;" href="app.php" rel="next">Prototype: App</a></div>
-    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="app.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="app.php" rel="prev">Prototype: App</a></div>
+    <div class="single-post-arrows single-next-post"><span><a style="right: -546.2px;" href="test.php" class="single-next-post-a"></a></span><a style="right: -246.2px; opacity: 0.2;" href="test.php" rel="prev">Usabillity testing</a></div>
 
         <div class="titelreflectie">
             <span>
