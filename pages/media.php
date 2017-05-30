@@ -78,6 +78,11 @@
 
         <p>Ik vond het heel nuttig om de mediastrategie uit te werken voor dit concept. Hierdoor kwamen we op meer media middelen waar we nog niet aan gedacht hadden. Met deze strategie weten we precies welke media we willen gaan gebruiken en hoe we dit gaan uitwerken. Ook de customer journey is een goede diagram voor het concept. Je kan duidelijk zien welke media wanneer worden gebruikt en in welke fase dit zit. Ik heb dit vorig jaar ook moeten maken, maar ik merk dat ik hier veel van geleerd heb. Die van vorig jaar was niet goed uitgewerkt en niet overzichtelijk. Met deze customer journey krijg je een duidelijk overzicht. Met dit overzicht merk ik dat ik een duidelijker beeld heb van het pad die de klant gaat doorlopen. </p>
         <p>Ook de contentkalender van de contenstrategie vond ik fijn om te maken voor het concept. Hierdoor merkte ik dat je een duidelijkere beeld krijgt wanneer je welke media je gebruikt en welke middelen je daarvan gaat uitvoeren. Dit maakt de campagne nog realistischer en kan je het daadwerkelijk uitvoeren. Net zoals de customer journey had ik vorig jaar ook al een keer een contentkalender gemaakt. Ik merk dat ik hier ook veel meer geleerd heb dan vorig jaar. Ik heb me deze keer veel meer verdiept en serieuzer aangepakt. Ook heb ik alles duidelijk beargumenteerd. Ik vond het leuk om dit uit te werken.
+        </p>
+
+        <p>Van de feedback die we van de docent hebben gehad heb ik veel nieuws over het document geleerd. Zo weet ik nu dat je heel duidelijk en met goede onderbouwing de middelen moet uitleggen, zodat iedereen het begrijpt. Verder wist ik eerst niet dat er een heel document voor gemaakt moest worden. Er moet een inhoudsopgave, inleiding en een bronnenlijst worden gemaakt. Verder weet ik nu ook dat het heel belangrijk is om uit te leggen waarom je media zoals Facebook gebruikt. Hier gaat het vooral om dat je bronnen gebruikt, zodat je het goed kan onderbouwen. Ook is het belangrijk om te beschrijven hoe je volgers krijgt op je Facebookpagina. Dit is natuurlijk heel belangrijk anders zal de doelgroep nooit je Facebookposts kunnen zien. Dit kan je ook het beste doen met een onderzoek met behulp van bronnen.</p>
+        
+        <p>Wat ik ook heb geleerd is dat de communicatiedoelstellingen en communicatiestrategie heel belangrijk zijn in dit document. Als je de communicatiestrategie en doelstellingen goed hebt onderbouwd, kan je alle andere strategieën en middelen door middel van de communicatiestrategie en doelstellingen goed onderbouwen. Hierdoor heb je een sterke onderbouwing.
         </p><br>
 
                  <div class="titeluitleg">
@@ -143,7 +148,30 @@
             </dt></dl>
         </div>
 
-        <p>Nadat we de contentstrategie hadden gemaakt en de customer journey hadden aangepast gingen we alles in een document zetten. Dit hebben we daarna ingeleverd en zullen we feedback krijgen van de docent. Klik <a href="../mediacontentstrategie.pdf">hier</a> voor de pdf.
+        <p>Nadat we de contentstrategie hadden gemaakt en de customer journey hadden aangepast gingen we alles in een document zetten. Dit hebben we daarna ingeleverd en zullen we feedback krijgen van de docent. Klik <a href="../mediacontentstrategie.pdf">hier</a> voor de pdf.</p>
+
+        <p>Van de SCO docent kregen we een week later de feedback. Dit waren de punten waaraan we moesten werken:<br>
+        -  We moesten duidelijker en preciezer zijn over de campagne middelen. Leg uit waarom je Facebook gebruikt. Dit doe je met behulp van bronnen.<br>
+        -   Een goede opbouw maken. Zodat alle onderwerpen goed bij elkaar aansluiten. Doe dit met een inhoudsopgave.<br>
+        -   We moeten nadenken over de kosten van posters.<br>
+        -   Uitleggen hoe we volgers krijgen op Instagram en facebook.<br>
+        -   Zorgen dat je wordt gevonden in google op de juiste zoekwoorden.<br>
+        </p>
+
+        <p>We zijn daarna de feedback gaan toepassen op het document. Bram en ik gingen het aanpassen. We hebben een takenlijst opgesteld. Als eerst veranderde we de naam van het document. We hadden namelijk de communicatiestrategie niet bij het document gezet. Daarna ben ik de communicatiedoelstellingen aan het opstellen. Op internet ben ik gaan kijken naar wat voor communicatiedoelstellingen er bestaan. Nadat ik dit had opgesteld ben ik de communicatiestrategie gaan aanpassen aan de hand van de doelgroep en de communicatiedoelstellingen. Ik merkte namelijk dat de communicatiestrategie niet meer klopte en niet duidelijk was uitgelegd.</p>
+
+        <p>Daarna ben ik een onderzoek gaan doen over Facebook. We moesten namelijk uitleggen waarom we Facebook gaan gebruiken voor de campagne en hoe we volgers gaan krijgen. Daarbij heb ik onderzocht wat je het beste kan doen om volgers te krijgen op Facebook. Zo kwam ik uit op een lijst met wat we allemaal konden doen. Een van de belangrijke dingen hierbij was Facebook advertenties. 
+        Dit onderzoek heb ik ook gedaan met Instagram. Hierbij heb ik ook een lijst gemaakt met wat we allemaal konden doen om meer volgers te krijgen.</p>
+
+        <p>Daarna heb ik alle middelen van Facebook uitgebreid uitgelegd. Hierbij heb ik uitgelegd hoe een post er precies uit gaat zien en wat we ermee willen bereiken voor onze campagne.</p>
+
+        <p>Ook moesten we verantwoorden hoe onze website wordt gevonden in Google. Ik ben gaan onderzoeken welke zoekwoorden voor onze website belangrijk is om opgezocht te worden. Dit heb ik met een tool gedaan en daaruit kwamen de zoekwoorden waarop de doelgroep zal gaan zoeken. Daarna heb ik nog een lijstje gemaakt hoe we de zoekwoorden kunnen toepassen op de website.</p>
+
+        <p>Bram is toen we alles af hadden alles in een nieuwe document gaan zetten. Het nieuwe document kan je <a href="../communicatiemediacontentstrategie.pdf">hier</a> zien. Dit hebben we daarna opnieuw ingeleverd en zullen we feedback krijgen van de docent.</p>
+
+
+
+
 
         </div>
     </div>
