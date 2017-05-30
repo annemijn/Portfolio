@@ -394,6 +394,51 @@
 
                 <div class="clearboth"></div>
                  </div>
+
+            <div class="list-big-block-row-a" style="top: -270px;">
+                <a class="list-big-block-a hexagon sco " href="pages/semiotiek.php">
+                        <span class="list-big-block-hover">
+                            <h3>Semiotiek</h3>
+                            <div class="list-big-block-excerpt">
+                            Met het vak SCO hebben we les gehad over semiotiek. De semiotiek houdt zich bezig met de leer van de tekens.                
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/semiotiek.png" />
+                        </canvas>
+                    </a> 
+                <a class="list-big-block-a hexagon scrum " href="pages/scrumsprint1.php">
+                        <span class="list-big-block-hover">
+                            <h3>SCRUM sprint 1</h3>
+                            <div class="list-big-block-excerpt">
+                            In sprint 1 zijn we begonnen met SCRUM.         
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/scrum.png" />
+                        </canvas>
+                 </a>
+           
+                 <a class="list-big-block-a hexagon dev " href="pages/framework.php">
+                        <span class="list-big-block-hover">
+                            <h3>Zelfgeschreven framework</h3>
+                            <div class="list-big-block-excerpt">
+                            Met deze workshop gingen we een eigen framework maken.          
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/framework.png" />
+                        </canvas>
+                 </a>
+                                 
+                <div class="clearboth"></div>
+                </div> 
         
     </div>
 </div> 
