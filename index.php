@@ -439,7 +439,38 @@
                                  
                 <div class="clearboth"></div>
                 </div> 
-        
+            <div class="list-big-block-row-b" style="top: -337px;">
+                    <a class="list-big-block-b hexagon uxu " href="pages/test.php">
+                        <span class="list-big-block-hover">
+                            <h3>Usabillity testing</h3>
+                            <div class="list-big-block-excerpt">
+                             Voor de usabillity test wilde we onze website gaan testen.     
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/test.png" />
+                        </canvas>
+                 </a>  
+
+                    <a class="list-big-block-b hexagon sco " href="pages/sprint2.php">
+                        <span class="list-big-block-hover">
+                            <h3>SCO sprint 2</h3>
+                            <div class="list-big-block-excerpt">
+                             In sprint 2 zijn we de campagne verder uit gaan werken met behulp van prototypes en strategieën.      
+                            </div>
+                            <div class="list-big-block-view"><b>Bekijk</b></div>
+                        </span>
+                        <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
+                        <img id="list-big-img" class="list-big-img" 
+                        src="images/sprint2.png" />
+                        </canvas>
+                 </a>  
+
+                <div class="clearboth"></div>
+                 </div>
+
     </div>
 </div> 
         <footer>
