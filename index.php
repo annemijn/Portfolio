@@ -409,31 +409,31 @@
                         src="images/semiotiek.png" />
                         </canvas>
                     </a> 
-                <a class="list-big-block-a hexagon scrum " href="pages/scrumsprint1.php">
+                <a class="list-big-block-a hexagon dev " href="pages/seo.php">
                         <span class="list-big-block-hover">
-                            <h3>SCRUM sprint 1</h3>
+                            <h3>SEO</h3>
                             <div class="list-big-block-excerpt">
-                            In sprint 1 zijn we begonnen met SCRUM.         
+                            Van het vak DEV kregen we een workshop over SEO. Hierbij moesten we onze portfolio gaan verbeteren zodat die beter kan worden gevonden door zoekmachines.         
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/scrum.png" />
+                        src="images/seo.png" />
                         </canvas>
                  </a>
            
-                 <a class="list-big-block-a hexagon dev " href="pages/framework.php">
+                 <a class="list-big-block-a hexagon uxu " href="pages/stunt.php">
                         <span class="list-big-block-hover">
-                            <h3>Zelfgeschreven framework</h3>
+                            <h3>Prototype campagnestunt</h3>
                             <div class="list-big-block-excerpt">
-                            Met deze workshop gingen we een eigen framework maken.          
+                            We wilden graag de campagnestunt uitvoeren om te kijken of mensen van onze doelgroep hier behoefte aan hebben.       
                             </div>
                             <div class="list-big-block-view"><b>Bekijk</b></div>
                         </span>
                         <canvas id="list-big-block" class="list-big-block" width="640" height="664" style="width:320px; height:332px;">
                         <img id="list-big-img" class="list-big-img" 
-                        src="images/framework.png" />
+                        src="images/stunt.png" />
                         </canvas>
                  </a>
                                  
